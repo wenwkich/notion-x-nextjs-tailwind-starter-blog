@@ -1,0 +1,196 @@
+---
+id: 1593a4a1-f9b4-4436-b5a5-716985e26914
+title: Session Cookies Made Easy
+tags:
+  - express
+  - auth
+date: '2022-03-29T14:36:00.000Z'
+slug: 1593a4a1f9b44436b5a5716985e26914-Session-Cookies-Made-Easy
+---
+
+How to use the most simple way to do authentication?
+
+> 💡 TLDR: when user issues a sign in request, store the key of user and expired info into something called `session` in the server (with a key-value store), and then we derive a `signature` of `session`’s key, which will return to client and stored in `httpOnly Cookies`
+
+For a newbie, you got confused, but somehow you know how to use a library
+
+Ok, we use a library, but do you know what does the library do and why does it do that?
+
+---
+
+## What is a Session?
+
+From client’s perspective, we all know a user need to register with a username and password to create a `account`, but somehow we need to keep user signed in, that means the server need to persist something in the client side
+
+Luckily, we’ve got `cookies`, and this is exactly what cookies does
+
+---
+
+From server’s perspective, how the hell does it know you are Alice or Bob?
+
+This is when we need a `session`, server usually needs to handle different client’s request, the mapping of client and user is what we called a `session`, that’s why server usually needs a key value store
+
+Imagine you have different conversation with your friends on the phone, each convo window is a `session` for you, and you know who you talking to by looking at the conversation window
+
+---
+
+Identify a window is easy for you because you are a human being, but for server, it needs a id to know what session it’s handling so that it could serve the right user
+
+So the server just return to client and “tag” the client with a session id, with `cookie`
+
+---
+
+## What’s stored in `session`?
+
+We don’t need to put all the user information, because other information such as user’s role might change, you just need to query user’s role with other relational database, so we need to just put the user id
+
+Also a expiration time needs to be put, because you usually don’t want a user to be logged in forever if they are not active, plus it’ll get easy for others to exploit if a token like this is not rotated constantly
+
+Same with other kinds of auth like API key and passwords, if you keep that stale forever, it might leave a longer window for hackers to exploit your credentials
+
+---
+
+You might ask if session gets expired constantly, don’t users need to constantly log in?
+
+Actually, the client side could choose to refresh the session if needed, this will stop annoying the user while keeping them safe, but that will be another topic to discuss
+
+---
+
+## What’s stored in `cookie`?
+
+One thing very important about session cookie is, **we don’t store the actual session data on the client side**, why?
+
+That’s because the client already knows who the user is, and it only needs to show the session id every time to the server as a pass token
+
+Then, server will quickly check if such a key exists in its store and check if the session has been expired
+
+That’s why server needs a random id instead of a predictable id, in express, they use `uid-safe` module
+
+---
+
+This is what a cookie in express look like:
+
+`s%3A`**`h30wc0pvSHJCYLVz0tui0Cv6NCCexGV8`**
+`.Cw7O3d354j%2FMcrxrXuWb65%2FRUpV6QdV07axdG0rZc8Y`
+
+After decoding `s%3A`, we get `s:`, which means this is a signature, a formatting thing
+
+From this, you can see **`h30wc0pvSHJCYLVz0tui0Cv6NCCexGV8`** is the id, and the part after the dot is the signature of the id
+
+---
+
+### Why do we need a signature?
+
+This is to avoid the tampering of the original cookie, so not only a key is enough, we still need to make sure the key is issued by the server, this is similar to other auth methods like JWT
+
+Because a signature is involved, we need a secret on server in order to sign things, we usually set environmental value for that
+
+---
+
+## Why `httpOnly cookies`
+
+When `httpOnly` is set to `true` in a cookie, it actually prevent the front end from accessing it, this could avoid the cross site scripting attack
+
+---
+
+You actually don’t need to worry all of that by yourself, because `express-session` is going to do that for u!
+
+---
+
+## How to use **`express-session`** **in your app?**
+
+### Middleware Set Up
+
+We only need to install the package using `npm i`, then we can include it in our global middleware
+
+```javascript
+const session = require('express-session');
+
+app.use(session({
+  secret: process.env.SESSION_SECRET, // used to sign sessionID
+  name: 'sid', // optional, the key of the cookie
+  saveUninitialized: false,
+  resave: true,
+})
+
+// then the other routing
+```
+
+The confusing part is the `saveUnintialized` and `resave`, other parameter are pretty self-explanatory
+
+You can refer to this answer: 
+
+[bookmark](https://stackoverflow.com/a/40396102)
+
+Simply put, `saveUninitialized` set to false could avoid a lot of unused empty object being stored, because if it set to true, all the request will create a session store if it’s still uninitialized
+
+And `resave` set to true will be able to rewrite the `req.session.cookie`, this will allow the scenerio of two browser logged in together, one request log out will also log out the other session
+
+Also we have `rolling`, this will allow the session middleware reset a new cookie when it gets expired
+
+Then we can access the session data with `req.session`
+
+The default session would be using memory, to prevent session sticky when doing replication of backend, we can choose to use Redis to as a single store of truth, but we will not cover this
+
+---
+
+### Log-in Logic
+
+In the route of login, we can modify the state of `req.session` to allow the session store to write things, note that it’s better not to put the entire user in it, as the state of the user could be modified
+
+```javascript
+app.post('login', (req, res) => {
+  // fetch the username and password
+	const user = db.find(...)
+
+	// find user in db
+
+	// check password correct
+
+  req.session.userId = user.id // we would not put the entire user
+	
+	return ...
+}
+```
+
+---
+
+### Auth Middleware
+
+We can write another middleware in front of the route that needs to be authenticated (is the user logged in), we can even write another middleware to do authorization (does this user have access to the data?)
+
+Why two layers? this is to avoid the coupling
+
+```javascript
+const auth = (req, res, next) => {
+  if (req.session.userId) {
+    console.log('authenticated')
+    next()
+	} else {
+    console.log('not authenticated')
+    return res.redirect('/')
+  }
+}
+
+app.get('/welcome', auth, (req, res) => {
+    const userName = req.session.user
+    return res.render('welcome', { message: `Welcome back, ${userName}!`
+  })
+})
+```
+
+---
+
+### Log-out Logic
+
+When log out endpoint is triggered, you only need to call `req.session.destroy()` to destroy it
+
+---
+
+## Summary
+
+So, that’s a wrap, maybe I will also cover JWT in the future, but I don’t really find JWT more appealing to me as it shifts more responsibility onto the front end which is quite annoying so it will never be simple to anyone
+
+This is my first attempt try to write a simple explanation article about dev and I try really hard to divide the information in chunks and sections (and I try to avoid writing multiple sentences in a praragraph)
+
+Hope you will like it!
