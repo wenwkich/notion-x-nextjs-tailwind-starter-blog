@@ -6,7 +6,7 @@ const siteMetadata = {
     'A blog created with Next.js, Tailwind and Notion as the CMS, inspired by glassmorphism and water marble arts',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://fluidfeed.vercel.app',
   siteRepo: 'https://github.com/wenwkich/fluidfeed',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

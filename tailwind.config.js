@@ -31,6 +31,10 @@ module.exports = {
         primary: colors.teal,
         gray: colors.neutral,
       },
+      backdropFilter: {
+        none: 'none',
+        blur: 'blur(20px)',
+      },
       typography: (theme) => ({
         DEFAULT: {
           css: {
@@ -85,7 +89,7 @@ module.exports = {
               paddingBottom: '2px',
               borderRadius: '0.25rem',
             },
-            hr: { borderColor: theme('colors.gray.200') },
+            hr: { borderColor: theme('colors.gray.700') },
             'ol li::marker': {
               fontWeight: '600',
               color: theme('colors.gray.500'),
@@ -136,7 +140,7 @@ module.exports = {
             details: {
               backgroundColor: theme('colors.gray.800'),
             },
-            hr: { borderColor: theme('colors.gray.700') },
+            hr: { borderColor: theme('colors.gray.200') },
             'ol li::marker': {
               fontWeight: '600',
               color: theme('colors.gray.400'),
@@ -164,5 +168,9 @@ module.exports = {
       }),
     },
   },
-  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')],
+  plugins: [
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/typography'),
+    require('tailwindcss-filters'),
+  ],
 }
