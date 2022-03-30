@@ -79,7 +79,8 @@ Just choose “Run shell script” and write scripts like this:
 
 ```shell
 source ~/.zshrc
-node ~/ws/fluidfeed-sync/sync.js
+cd ~/ws/fluidfeed-sync
+node sync.js
 cd ~/ws/fluidfeed
 git add .
 git commit -m 'add posts'
