@@ -25,9 +25,9 @@ They both give control and access to your account and needs to be kept confident
 
 There are two main caveats about private key management, that key owners should protect their key from being _lost,_ as well as being _stolen_
 
-Passwords can be always be recovered by the centralized service provider, but this is not possible for private keys to be recovered if you just lost them
+Passwords can be always be reset by the centralized service provider, but this is not possible for private keys to be recovered if you just lost them
 
-Same with password exploit, it can be changed as well if the service provider allows you with a centralized control, but not with private key, if a private key is stolen, you have to abandon it
+Same with password exploit, it can be reset as well if the service provider allows you with a centralized control, but not with private key, if a private key is stolen, you have to abandon it
 
 With normal password infrastructure, your trust is given to the centralized authority, but with web3, devs can do nothing when you don’t keep your keys well
 
@@ -41,7 +41,7 @@ The premise of understanding the idea of asymmetric keys is to understand one-wa
 
 How I usually see a function is a black box of some sort of mapping (`x → f(x)`), you don’t really have to drill down the detail in a function, but you really have to understand how it behaves
 
-![please use light mode if this doesn’t show well](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59db6af5-27b2-43c8-93e5-0eba3e1e4f9f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T124820Z&X-Amz-Expires=3600&X-Amz-Signature=ffeb6786b55d85d51d3e0a086dcb25af55694cb1086187f18493c4fa61f0e604&X-Amz-SignedHeaders=host&x-id=GetObject)
+![please use light mode if this doesn’t show well](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59db6af5-27b2-43c8-93e5-0eba3e1e4f9f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T130749Z&X-Amz-Expires=3600&X-Amz-Signature=80494b61de8397e0d68daf2732f46610cdbe71a48e278c2a6e2142984ef74c8f&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 This picture shows the relationship of `x` and `f(x)` as a one-way function, from input to answer is very easy to compute, but from answer to its input is really hard to get, that’s one-way function’s behavior
 
@@ -57,7 +57,7 @@ Private key is very simple to understand, it’s just a random number from `1` t
 
 This might surprise you, most random function in the programming language is not completely random, so we need an algo that is completely unpredictable
 
-![eliptic curve](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec8c90bd-ff09-400a-a2b2-b2f5ea3a7d6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T124820Z&X-Amz-Expires=3600&X-Amz-Signature=2662da1ac190207807f73c3e0ac8a76113751f0f2c716fef1e0aaa443f24d846&X-Amz-SignedHeaders=host&x-id=GetObject)
+![eliptic curve](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec8c90bd-ff09-400a-a2b2-b2f5ea3a7d6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T130749Z&X-Amz-Expires=3600&X-Amz-Signature=141db872a7692573cf3f2450f8fee07b271bac1a55a35a5d4868c5bb340777e3&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Public key requires more understanding, it basically is a point from the curve above, which is the product of elliptic curve "multiplication” between your private key and a constant point
 
