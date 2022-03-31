@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Wendy Chan',
   headerTitle: 'f l u i d f e e d',
   description:
-    'A blog created with Next.js, Tailwind and Notion as the CMS, inspired by glassmorphism and water marble arts',
+    'A blog created with Notion as the CMS, representing my inner experiences with tech and the world',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://fluidfeed.vercel.app',
