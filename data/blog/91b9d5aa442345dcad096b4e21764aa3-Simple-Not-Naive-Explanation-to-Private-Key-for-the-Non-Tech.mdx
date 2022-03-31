@@ -9,7 +9,7 @@ slug: >-
   91b9d5aa442345dcad096b4e21764aa3-Simple-Not-Naive-Explanation-to-Private-Key-for-the-Non-Tech
 ---
 
-IMO, the most important thing about web3 users to learn is private key, this article serves a simple but not naive explanation to private key for the non-tech people
+IMO, the most important thing about web3 users to learn is private key, this article serves a simple but not naive explanation (with my understanding) to private key for the non-tech people
 
 Many people understands cryptocurrency as they “encrypt” your “bitcoins”, and the private key is the password, which is not entirely true
 
@@ -41,7 +41,7 @@ The premise of understanding the idea of asymmetric keys is to understand one-wa
 
 How I usually see a function is a black box of some sort of mapping (`x → f(x)`), you don’t really have to drill down the detail in a function, but you really have to understand how it behaves
 
-![please use light mode if this doesn’t show well](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59db6af5-27b2-43c8-93e5-0eba3e1e4f9f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T155626Z&X-Amz-Expires=3600&X-Amz-Signature=9918945c0147666c50207a13ef95703e08be220d246019cea0c90d106ccfb0e9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![please use light mode if this doesn’t show well](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59db6af5-27b2-43c8-93e5-0eba3e1e4f9f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T013538Z&X-Amz-Expires=3600&X-Amz-Signature=f95bbe614b68aa0ff7790f5ea2a03979c26d74489a5752c758e1c9e4b7c7b0c2&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 This picture shows the relationship of `x` and `f(x)` as a one-way function, from input to answer is very easy to compute, but from answer to its input is really hard to get, that’s one-way function’s behavior
 
@@ -57,7 +57,7 @@ Private key is very simple to understand, it’s just a random number from `1` t
 
 This might surprise you, most random function in the programming language is not completely random, so we need an algo that is completely unpredictable
 
-![eliptic curve](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec8c90bd-ff09-400a-a2b2-b2f5ea3a7d6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T155626Z&X-Amz-Expires=3600&X-Amz-Signature=585be75d29fea633ce5b244be0659e118f926308bbfc6a62f8eff62b3f077f38&X-Amz-SignedHeaders=host&x-id=GetObject)
+![eliptic curve](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec8c90bd-ff09-400a-a2b2-b2f5ea3a7d6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T013538Z&X-Amz-Expires=3600&X-Amz-Signature=901fb49f9de252ce80113736a0918c0de51fa516a369dd22f38582114283e2c7&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Public key requires more understanding, it basically is a point from the curve above, which is the product of elliptic curve "multiplication” between your private key and a constant point
 
