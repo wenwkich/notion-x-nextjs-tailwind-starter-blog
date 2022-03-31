@@ -4,7 +4,7 @@ title: Simple-Not-Naive Mental Model to Private Key for the Non-Tech
 tags:
   - web3
   - cryptography
-date: '2022-03-31T07:56:00.000Z'
+date: '2022-03-31T08:01:00.000Z'
 slug: >-
   91b9d5aa442345dcad096b4e21764aa3-Simple-Not-Naive-Mental-Model-to-Private-Key-for-the-Non-Tech
 ---
@@ -41,7 +41,7 @@ The premise of understanding the idea of asymmetric keys is to understand one-wa
 
 How I usually see a function is a black box of some sort of mapping (`x → f(x)`), you don’t really have to drill down the detail in a function, but you really have to understand how it behaves
 
-[![](<[https://upload.wikimedia.org/wikipedia/commons/8/8f/Trapdoor_permutation.svg](https://upload.wikimedia.org/wikipedia/commons/8/8f/Trapdoor_permutation.svg)>)]
+![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Trapdoor_permutation.svg)
 
 This picture shows the relationship of `x` and `f(x)` as a one-way function, from input to answer is very easy to compute, but from answer to its input is really hard to get, that’s one-way function’s behavior
 
@@ -57,7 +57,7 @@ Private key is very simple to understand, it’s just a random number from `1` t
 
 This might surprise you, most random function in the programming language is not completely random, so we need an algo that is completely unpredictable
 
-[![](<[https://github.com/ethereumbook/ethereumbook/raw/develop/images/simple_elliptic_curve.png](https://github.com/ethereumbook/ethereumbook/raw/develop/images/simple_elliptic_curve.png)>)]
+![](https://github.com/ethereumbook/ethereumbook/raw/develop/images/simple_elliptic_curve.png)
 
 Public key requires more understanding, it basically is a point from the curve above, which is the product of elliptic curve "multiplication” between your private key and a constant point
 
