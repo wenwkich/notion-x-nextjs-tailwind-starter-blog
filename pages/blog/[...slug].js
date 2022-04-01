@@ -1,5 +1,5 @@
 import PageTitle from '@/components/PageTitle'
-import generateRss from '@/lib/generate-rss'
+// import generateRss from '@/lib/generate-rss'
 import { NotionLayoutRenderer } from '@/components/NotionComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/notion'
 import { getFileBySlug as getFileBySlugMdx } from '@/lib/mdx'
