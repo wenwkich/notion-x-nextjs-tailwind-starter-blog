@@ -2,9 +2,9 @@
 import { useMemo } from 'react'
 import { NotionRenderer } from 'react-notion-x'
 
-export const NotionLayout = ({ layout, ...rest }) => {
+export const NotionLayout = ({ layout, children, ...rest }) => {
   const Layout = require(`../layouts/${layout}`).default
-  return <Layout {...rest} />
+  return <Layout>{children}</Layout>
 }
 
 export const NotionLayoutRenderer = ({ layout, recordMap, darkMode, ...rest }) => {
@@ -14,7 +14,7 @@ export const NotionLayoutRenderer = ({ layout, recordMap, darkMode, ...rest }) =
   )
 
   return (
-    <NotionLayout layout {...rest}>
+    <NotionLayout layout={layout} {...rest}>
       <NotionComp />
     </NotionLayout>
   )
