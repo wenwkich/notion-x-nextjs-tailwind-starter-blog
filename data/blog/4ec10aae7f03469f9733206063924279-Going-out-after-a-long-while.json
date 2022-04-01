@@ -1,0 +1,931 @@
+{
+  "object": "page",
+  "id": "4ec10aae-7f03-469f-9733-206063924279",
+  "created_time": "2022-03-31T05:35:00.000Z",
+  "last_edited_time": "2022-03-31T07:01:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35", "name": "thoughts", "color": "orange" },
+        { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "name": "meta", "color": "brown" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-31T07:01:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-31T05:35:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "4ec10aae7f03469f9733206063924279-Going-out-after-a-long-while"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": { "content": "Going out after a long while", "link": null },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Going out after a long while",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Going-out-after-a-long-while-4ec10aae7f03469f9733206063924279",
+  "recordMap": {
+    "block": {
+      "4ec10aae-7f03-469f-9733-206063924279": {
+        "role": "reader",
+        "value": {
+          "id": "4ec10aae-7f03-469f-9733-206063924279",
+          "version": 105,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["thoughts,meta"]],
+            "title": [["Going out after a long while"]]
+          },
+          "content": [
+            "6a32c823-e93f-4100-96df-e8b75ca0450f",
+            "518c15c7-e40f-4972-9faa-fc0a62e8c586",
+            "a8d61757-07bc-4a50-a153-e0aaeae40e28",
+            "3aa97c63-2ca3-49ac-b769-884eb8feccac",
+            "fb18f30e-ee97-476d-b281-605f1cfb0b7d",
+            "2b910df3-bf9e-4999-a4a3-356d30b661f6",
+            "6a68125a-e386-4e3e-895c-a5684cbf14de",
+            "ff11f9ce-8f8e-4a70-b1ef-36bfe6c5516e",
+            "3d20a2b6-fb62-4301-85e3-c1f0198a03a8",
+            "789a13c1-6c61-4841-b314-90b963ea0760",
+            "02e66090-bd1a-4217-9f31-e0cfeeb43da7",
+            "eecb9f22-16d3-48b3-b54c-6b55711cb130",
+            "44f7dcc0-0e5a-4dfd-830e-a09fe6f2e34b",
+            "a7beeab1-6ce4-4816-abe8-cccf3759dcd6",
+            "3c6d0c07-ba1e-4a89-afd3-b4f58e360943",
+            "f2971994-507a-4816-a34d-e55fc0c78eb2",
+            "88529636-dc32-4ce2-83b2-8f16569b0cc8",
+            "8ae237e4-0e95-4333-bd53-fff7f26d3b1c",
+            "b8a3afbd-6887-4c47-9a7e-be45ca117da5",
+            "8c79217b-f8dd-4734-9061-33e3e6d23cdc",
+            "101ee49b-433c-4cb3-a0d9-243f71fb7cce",
+            "cf65a1a9-d33d-497f-bf09-126a748d1680",
+            "5d2e2e3b-1ed3-4fe8-a58b-cb979ccb4a86",
+            "d702d4e6-d2ee-4efb-a62e-f1cff035beb3",
+            "5a7ae7e1-23a5-427d-8d28-66845db4c56d"
+          ],
+          "created_time": 1648704900000,
+          "last_edited_time": 1648710060000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6a32c823-e93f-4100-96df-e8b75ca0450f": {
+        "role": "reader",
+        "value": {
+          "id": "6a32c823-e93f-4100-96df-e8b75ca0450f",
+          "version": 153,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I finally went out today and grab something to eat. God, I was so used to ordering delivery for food."
+              ]
+            ]
+          },
+          "created_time": 1648704900000,
+          "last_edited_time": 1648704960000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "518c15c7-e40f-4972-9faa-fc0a62e8c586": {
+        "role": "reader",
+        "value": {
+          "id": "518c15c7-e40f-4972-9faa-fc0a62e8c586",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648705080000,
+          "last_edited_time": 1648705080000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a8d61757-07bc-4a50-a153-e0aaeae40e28": {
+        "role": "reader",
+        "value": {
+          "id": "a8d61757-07bc-4a50-a153-e0aaeae40e28",
+          "version": 71,
+          "type": "text",
+          "properties": { "title": [["I was going to watch Batman but the cinema is closed"]] },
+          "created_time": 1648705080000,
+          "last_edited_time": 1648705140000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3aa97c63-2ca3-49ac-b769-884eb8feccac": {
+        "role": "reader",
+        "value": {
+          "id": "3aa97c63-2ca3-49ac-b769-884eb8feccac",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648704960000,
+          "last_edited_time": 1648704960000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fb18f30e-ee97-476d-b281-605f1cfb0b7d": {
+        "role": "reader",
+        "value": {
+          "id": "fb18f30e-ee97-476d-b281-605f1cfb0b7d",
+          "version": 78,
+          "type": "text",
+          "properties": {
+            "title": [["Instead I went shopping for some clothes, and my feet hurts"]]
+          },
+          "created_time": 1648704960000,
+          "last_edited_time": 1648705140000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2b910df3-bf9e-4999-a4a3-356d30b661f6": {
+        "role": "reader",
+        "value": {
+          "id": "2b910df3-bf9e-4999-a4a3-356d30b661f6",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648705260000,
+          "last_edited_time": 1648705260000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6a68125a-e386-4e3e-895c-a5684cbf14de": {
+        "role": "reader",
+        "value": {
+          "id": "6a68125a-e386-4e3e-895c-a5684cbf14de",
+          "version": 165,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "My outing today ends with drinking Monster (normally I would drink Boba, I just created a brand new experience for myself to write this down)"
+              ]
+            ]
+          },
+          "created_time": 1648705260000,
+          "last_edited_time": 1648705800000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ff11f9ce-8f8e-4a70-b1ef-36bfe6c5516e": {
+        "role": "reader",
+        "value": {
+          "id": "ff11f9ce-8f8e-4a70-b1ef-36bfe6c5516e",
+          "version": 304,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              [
+                "I think why I started to drink Monster is because Monster seems like to be for some ‘edgy’ people, I can’t drink alcohol and smoke anyway, if I want to be ‘edgy’, Monster/Red Bull seems like a good choice (I am so fucking immature)"
+              ]
+            ]
+          },
+          "created_time": 1648705800000,
+          "last_edited_time": 1648705920000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3d20a2b6-fb62-4301-85e3-c1f0198a03a8": {
+        "role": "reader",
+        "value": {
+          "id": "3d20a2b6-fb62-4301-85e3-c1f0198a03a8",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648705020000,
+          "last_edited_time": 1648705020000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "789a13c1-6c61-4841-b314-90b963ea0760": {
+        "role": "reader",
+        "value": {
+          "id": "789a13c1-6c61-4841-b314-90b963ea0760",
+          "version": 96,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "While I was out, I was listening to songs and also brainstormed some ideas to write:"
+              ]
+            ]
+          },
+          "created_time": 1648705020000,
+          "last_edited_time": 1648705800000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "02e66090-bd1a-4217-9f31-e0cfeeb43da7": {
+        "role": "reader",
+        "value": {
+          "id": "02e66090-bd1a-4217-9f31-e0cfeeb43da7",
+          "version": 75,
+          "type": "bulleted_list",
+          "properties": { "title": [["Mood Rings by Lorde and the toxicity of wellness culture"]] },
+          "created_time": 1648705020000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "eecb9f22-16d3-48b3-b54c-6b55711cb130": {
+        "role": "reader",
+        "value": {
+          "id": "eecb9f22-16d3-48b3-b54c-6b55711cb130",
+          "version": 29,
+          "type": "bulleted_list",
+          "properties": { "title": [["Metaverse and Metahuman"]] },
+          "created_time": 1648705080000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "44f7dcc0-0e5a-4dfd-830e-a09fe6f2e34b": {
+        "role": "reader",
+        "value": {
+          "id": "44f7dcc0-0e5a-4dfd-830e-a09fe6f2e34b",
+          "version": 17,
+          "type": "bulleted_list",
+          "properties": { "title": [["TechLead"]] },
+          "created_time": 1648705320000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a7beeab1-6ce4-4816-abe8-cccf3759dcd6": {
+        "role": "reader",
+        "value": {
+          "id": "a7beeab1-6ce4-4816-abe8-cccf3759dcd6",
+          "version": 94,
+          "type": "bulleted_list",
+          "properties": { "title": [["Why do I still listen to artists that are ‘canceled’"]] },
+          "created_time": 1648705440000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3c6d0c07-ba1e-4a89-afd3-b4f58e360943": {
+        "role": "reader",
+        "value": {
+          "id": "3c6d0c07-ba1e-4a89-afd3-b4f58e360943",
+          "version": 56,
+          "type": "bulleted_list",
+          "properties": { "title": [["I’m getting started with mental models"]] },
+          "created_time": 1648705500000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f2971994-507a-4816-a34d-e55fc0c78eb2": {
+        "role": "reader",
+        "value": {
+          "id": "f2971994-507a-4816-a34d-e55fc0c78eb2",
+          "version": 88,
+          "type": "bulleted_list",
+          "properties": { "title": [["How logging down my thought process changed my life"]] },
+          "created_time": 1648705500000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "88529636-dc32-4ce2-83b2-8f16569b0cc8": {
+        "role": "reader",
+        "value": {
+          "id": "88529636-dc32-4ce2-83b2-8f16569b0cc8",
+          "version": 109,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [["I need to fix my script because it obviously having scaling issue"]]
+          },
+          "created_time": 1648705680000,
+          "last_edited_time": 1648705740000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8ae237e4-0e95-4333-bd53-fff7f26d3b1c": {
+        "role": "reader",
+        "value": {
+          "id": "8ae237e4-0e95-4333-bd53-fff7f26d3b1c",
+          "version": 95,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              ["I think all products and frameworks all solves the issue of having friction"]
+            ]
+          },
+          "created_time": 1648710060000,
+          "last_edited_time": 1648710060000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b8a3afbd-6887-4c47-9a7e-be45ca117da5": {
+        "role": "reader",
+        "value": {
+          "id": "b8a3afbd-6887-4c47-9a7e-be45ca117da5",
+          "version": 7,
+          "type": "text",
+          "created_time": 1648705440000,
+          "last_edited_time": 1648705440000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8c79217b-f8dd-4734-9061-33e3e6d23cdc": {
+        "role": "reader",
+        "value": {
+          "id": "8c79217b-f8dd-4734-9061-33e3e6d23cdc",
+          "version": 101,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "It looks like my brain is having some great inner experiences when I’m getting out alone"
+              ]
+            ]
+          },
+          "created_time": 1648705440000,
+          "last_edited_time": 1648705560000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "101ee49b-433c-4cb3-a0d9-243f71fb7cce": {
+        "role": "reader",
+        "value": {
+          "id": "101ee49b-433c-4cb3-a0d9-243f71fb7cce",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648705320000,
+          "last_edited_time": 1648705560000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cf65a1a9-d33d-497f-bf09-126a748d1680": {
+        "role": "reader",
+        "value": {
+          "id": "cf65a1a9-d33d-497f-bf09-126a748d1680",
+          "version": 135,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "But I think I’ll save these leisure topic for weekends, right now it’s time to get down to business and study about web3"
+              ]
+            ]
+          },
+          "created_time": 1648705320000,
+          "last_edited_time": 1648705380000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5d2e2e3b-1ed3-4fe8-a58b-cb979ccb4a86": {
+        "role": "reader",
+        "value": {
+          "id": "5d2e2e3b-1ed3-4fe8-a58b-cb979ccb4a86",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648705560000,
+          "last_edited_time": 1648705560000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d702d4e6-d2ee-4efb-a62e-f1cff035beb3": {
+        "role": "reader",
+        "value": {
+          "id": "d702d4e6-d2ee-4efb-a62e-f1cff035beb3",
+          "version": 531,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Well before that, maybe I need to check out “mental models”, why? Because I saw this [blog]("
+              ],
+              [
+                "https://theodorusclarence.com/blog/btb-flex-mental-model",
+                [["a", "https://theodorusclarence.com/blog/btb-flex-mental-model"]]
+              ],
+              [
+                ") about flexbox here and read the intro, but I will (might) read it later because I need to review flex box and know what does others mental model look like (I think the blog talking about private key is a example of my interpretation and hence, my mental model)"
+              ]
+            ]
+          },
+          "created_time": 1648705560000,
+          "last_edited_time": 1648706040000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5a7ae7e1-23a5-427d-8d28-66845db4c56d": {
+        "role": "reader",
+        "value": {
+          "id": "5a7ae7e1-23a5-427d-8d28-66845db4c56d",
+          "version": 7,
+          "type": "text",
+          "created_time": 1648705560000,
+          "last_edited_time": 1648705980000,
+          "parent_id": "4ec10aae-7f03-469f-9733-206063924279",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}

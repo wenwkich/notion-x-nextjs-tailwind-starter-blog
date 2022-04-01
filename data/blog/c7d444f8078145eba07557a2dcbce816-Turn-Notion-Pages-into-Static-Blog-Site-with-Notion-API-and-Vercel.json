@@ -1,0 +1,1940 @@
+{
+  "object": "page",
+  "id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+  "created_time": "2022-03-28T11:25:00.000Z",
+  "last_edited_time": "2022-03-31T10:24:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "6252b243-1ab9-4690-a9ca-f530158f33d2", "name": "notion", "color": "purple" },
+        { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "name": "react", "color": "red" },
+        { "id": "c68b6f92-f79b-422e-8586-1add9afa3fee", "name": "nextjs", "color": "orange" },
+        { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "name": "meta", "color": "brown" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-31T10:24:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-28T11:25:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "c7d444f8078145eba07557a2dcbce816-Turn-Notion-Pages-into-Static-Blog-Site-with-Notion-API-and-Vercel"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Turn Notion Pages into Static Blog Site with Notion API and Vercel",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Turn Notion Pages into Static Blog Site with Notion API and Vercel",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Turn-Notion-Pages-into-Static-Blog-Site-with-Notion-API-and-Vercel-c7d444f8078145eba07557a2dcbce816",
+  "recordMap": {
+    "block": {
+      "c7d444f8-0781-45eb-a075-57a2dcbce816": {
+        "role": "reader",
+        "value": {
+          "id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "version": 584,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["notion,react,nextjs,meta"]],
+            "title": [["Turn Notion Pages into Static Blog Site with Notion API and Vercel"]]
+          },
+          "content": [
+            "5bdac8ed-37c7-4131-83fc-c7f03f59ef26",
+            "87461400-d5bd-40bb-a6d8-7abe6734a1f5",
+            "1667d62e-0bac-491c-8eec-be42557e2d05",
+            "79c295ac-56b0-43cc-be22-57b173d4d6d2",
+            "587c262d-c554-4c04-9209-d0f3a7933ebd",
+            "c661c737-0cce-4a58-917d-650b628e2da8",
+            "b43392d8-d3b2-4190-b22f-7bb7a8fc219b",
+            "eb09f38a-da2c-40f4-ac42-1e08ffb245ed",
+            "f7c129c3-0142-44dc-8eee-f3c282d453e7",
+            "32c0e392-b0f6-4f96-8c63-522cb112f160",
+            "695008f5-f48e-4467-9617-3d3781026059",
+            "38cb5d3c-ec4d-433e-b8f1-4401891391e5",
+            "39f8ec61-3c3e-4732-a451-b1611e1a8b31",
+            "bd6f2bbd-92b2-459a-bac1-1d06bd3e8db7",
+            "d8960997-7d97-4575-bacb-b66c35666125",
+            "0e95008e-df50-4638-889f-8560599f07b2",
+            "071c3ba7-0278-43dc-bc5a-770368b4dc51",
+            "d361903f-445b-48f9-b702-81b9db60df93",
+            "26900b48-e977-4404-8309-8259eb22ef1e",
+            "dc28f6c8-2fa4-4b42-8c36-74857333715d",
+            "9fb8ce7e-73d3-444e-8bfa-b0e916d8fbf0",
+            "e1d4edd9-df4b-46d0-a32e-44a58764cc83",
+            "10693cc5-c18e-476a-8ed8-4ec654e01f7d",
+            "2127eecc-8a26-4572-9a6b-c646aee9a536",
+            "df3d2392-4984-410c-b20f-a784b6bc22cf",
+            "9e8d9b3f-224b-4834-ad64-b371cabdea5a",
+            "3a8b254f-1f61-46e4-82e3-19a6e859f628",
+            "021db401-a648-46fb-8731-1ee8dbedf99c",
+            "2594eb17-a458-4371-86fd-f03fa3ea3c84",
+            "a4bd3455-83e6-44ae-ba55-e81a45a57167",
+            "8c616564-9572-43e5-a2ce-6c48d8be71c3",
+            "92159b8e-0967-450a-adc1-ed7f0f09b75a",
+            "82734b54-a123-448f-9574-67d3c587aef0",
+            "09524a37-494b-45b1-be8b-68b35d2f02d1",
+            "3add4e0a-c826-4d8b-bf8b-f9097184c75b",
+            "c25608d1-2e8d-4cdf-8d20-7d0c3af445d9",
+            "a8877ccd-1d96-4d65-8729-30a8eb6e593d",
+            "e02c231a-f362-4748-a421-c6ed484c667d",
+            "ab072a2d-5fa0-4f07-b170-6bab0660e0d9",
+            "970dc49e-86fb-480a-ae50-3345cad27c24",
+            "c144623b-b0bb-4d7d-a031-68e0ba595260",
+            "a0ebee27-5bff-43bd-b52f-eba030abef86",
+            "1c4ad896-7a83-4901-b509-a199d46f3283",
+            "5ad4b859-8316-484c-b965-d207c3582355",
+            "4be4f16b-2b96-4431-8ac1-d07f5e9f9be2",
+            "9136cf95-f885-4b39-bf3c-a2fb2178ed94",
+            "dca1af8c-3705-456b-a648-2b71799bdfb5",
+            "db667995-c5da-4891-8bd6-f6806efa0968",
+            "06751864-11df-4f93-b4c9-21d3f018b8f0",
+            "a7f3ae4c-0cfd-4c54-a3d1-18c4d8f723c4",
+            "9b9bd85e-2b1d-443b-85ff-6716905bc145",
+            "de6ebf2c-83c3-485a-8a05-ea435d9357c0",
+            "68b6d234-5ca8-49db-84b1-06be2bd31a3c",
+            "138a3767-aa1b-4b6c-83c6-c27a0eb1519e",
+            "11218d80-e165-435f-9bc3-ff1a500f521b",
+            "ac5aa76d-0251-49d7-add4-5b55e600af3f",
+            "9843e3a3-46d0-4ef2-8411-ef9589c67d3d",
+            "715d1e16-8f60-404a-8162-58341f3e28e0",
+            "1dfa7571-e7df-47ec-9e6b-d6355ebcdcf4",
+            "3fec959c-d501-4060-8428-5bf2bb3be7a3",
+            "cc3db313-f6c1-46b6-9cf3-fc172c9a61f2",
+            "e9aa105e-a76a-459c-b1ab-f96b914ec501",
+            "8065ae59-058e-482a-9079-a63e2f5a43f2",
+            "53d1adaf-6f3d-48b8-822a-39e9989a61d4",
+            "6eaa9110-7418-41fc-89e7-f70aef7d7afc",
+            "be848adf-c51a-4825-98d6-66ff058693a4",
+            "a8c42a2c-55fa-4622-a538-aa77ea918eab",
+            "fac50fb2-0f44-4b31-9e3e-db40045263c0",
+            "95d45f06-2039-4760-a523-946c0c40a2be"
+          ],
+          "created_time": 1648466700000,
+          "last_edited_time": 1648722240000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5bdac8ed-37c7-4131-83fc-c7f03f59ef26": {
+        "role": "reader",
+        "value": {
+          "id": "5bdac8ed-37c7-4131-83fc-c7f03f59ef26",
+          "version": 386,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is not my first attempt to start a static blog, I think I started a blog with Hugo maybe two years ago, but I didn’t keep it up"
+              ]
+            ]
+          },
+          "created_time": 1648595280000,
+          "last_edited_time": 1648611120000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "87461400-d5bd-40bb-a6d8-7abe6734a1f5": {
+        "role": "reader",
+        "value": {
+          "id": "87461400-d5bd-40bb-a6d8-7abe6734a1f5",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648608540000,
+          "last_edited_time": 1648608540000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1667d62e-0bac-491c-8eec-be42557e2d05": {
+        "role": "reader",
+        "value": {
+          "id": "1667d62e-0bac-491c-8eec-be42557e2d05",
+          "version": 409,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I think one of the reason for me to fuck this up is because there’s some friction for me to maintain a blog repo, as I don’t want to open my repository everytime I start a blog, I would rather write this to some place centralized like Notion (together with my other todos and private notes)"
+              ]
+            ]
+          },
+          "created_time": 1648608540000,
+          "last_edited_time": 1648611420000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "79c295ac-56b0-43cc-be22-57b173d4d6d2": {
+        "role": "reader",
+        "value": {
+          "id": "79c295ac-56b0-43cc-be22-57b173d4d6d2",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648612260000,
+          "last_edited_time": 1648612260000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "587c262d-c554-4c04-9209-d0f3a7933ebd": {
+        "role": "reader",
+        "value": {
+          "id": "587c262d-c554-4c04-9209-d0f3a7933ebd",
+          "version": 306,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I’m going to show you to fastest way to build a static blog site with Notion as the CMS (kind of), and sync your blogs written in Notion to your blog site"
+              ]
+            ]
+          },
+          "created_time": 1648612260000,
+          "last_edited_time": 1648612380000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c661c737-0cce-4a58-917d-650b628e2da8": {
+        "role": "reader",
+        "value": {
+          "id": "c661c737-0cce-4a58-917d-650b628e2da8",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648612380000,
+          "last_edited_time": 1648612380000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b43392d8-d3b2-4190-b22f-7bb7a8fc219b": {
+        "role": "reader",
+        "value": {
+          "id": "b43392d8-d3b2-4190-b22f-7bb7a8fc219b",
+          "version": 189,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This involves writing a script to sync your Notion pages on a database to markdown files in your blog repository"
+              ]
+            ]
+          },
+          "created_time": 1648612380000,
+          "last_edited_time": 1648612440000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "eb09f38a-da2c-40f4-ac42-1e08ffb245ed": {
+        "role": "reader",
+        "value": {
+          "id": "eb09f38a-da2c-40f4-ac42-1e08ffb245ed",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648611240000,
+          "last_edited_time": 1648611240000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f7c129c3-0142-44dc-8eee-f3c282d453e7": {
+        "role": "reader",
+        "value": {
+          "id": "f7c129c3-0142-44dc-8eee-f3c282d453e7",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648611240000,
+          "last_edited_time": 1648611240000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "32c0e392-b0f6-4f96-8c63-522cb112f160": {
+        "role": "reader",
+        "value": {
+          "id": "32c0e392-b0f6-4f96-8c63-522cb112f160",
+          "version": 55,
+          "type": "sub_header",
+          "properties": { "title": [["But first, why writing a blog?"]] },
+          "created_time": 1648611268157,
+          "last_edited_time": 1648611240000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "695008f5-f48e-4467-9617-3d3781026059": {
+        "role": "reader",
+        "value": {
+          "id": "695008f5-f48e-4467-9617-3d3781026059",
+          "version": 151,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I think the primary reason is that I want to keep up a hobby and develop my skill to deliver a concept to others more smoothly"
+              ]
+            ]
+          },
+          "created_time": 1648611240000,
+          "last_edited_time": 1648611300000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "38cb5d3c-ec4d-433e-b8f1-4401891391e5": {
+        "role": "reader",
+        "value": {
+          "id": "38cb5d3c-ec4d-433e-b8f1-4401891391e5",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648611300000,
+          "last_edited_time": 1648611300000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "39f8ec61-3c3e-4732-a451-b1611e1a8b31": {
+        "role": "reader",
+        "value": {
+          "id": "39f8ec61-3c3e-4732-a451-b1611e1a8b31",
+          "version": 127,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Think of this blog as a “rehearsal” for me to talk about some idea, this will help organize my thinking flow"
+              ]
+            ]
+          },
+          "created_time": 1648611300000,
+          "last_edited_time": 1648611360000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "bd6f2bbd-92b2-459a-bac1-1d06bd3e8db7": {
+        "role": "reader",
+        "value": {
+          "id": "bd6f2bbd-92b2-459a-bac1-1d06bd3e8db7",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648611480000,
+          "last_edited_time": 1648611480000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d8960997-7d97-4575-bacb-b66c35666125": {
+        "role": "reader",
+        "value": {
+          "id": "d8960997-7d97-4575-bacb-b66c35666125",
+          "version": 111,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Study notes might seem like a great option, but it’s not that presentable to others to understand a concept"
+              ]
+            ]
+          },
+          "created_time": 1648611480000,
+          "last_edited_time": 1648611480000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0e95008e-df50-4638-889f-8560599f07b2": {
+        "role": "reader",
+        "value": {
+          "id": "0e95008e-df50-4638-889f-8560599f07b2",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648611420000,
+          "last_edited_time": 1648611420000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "071c3ba7-0278-43dc-bc5a-770368b4dc51": {
+        "role": "reader",
+        "value": {
+          "id": "071c3ba7-0278-43dc-bc5a-770368b4dc51",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648611360000,
+          "last_edited_time": 1648611420000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d361903f-445b-48f9-b702-81b9db60df93": {
+        "role": "reader",
+        "value": {
+          "id": "d361903f-445b-48f9-b702-81b9db60df93",
+          "version": 67,
+          "type": "sub_header",
+          "properties": { "title": [["Other solutions"]] },
+          "created_time": 1648611421260,
+          "last_edited_time": 1648612020000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "26900b48-e977-4404-8309-8259eb22ef1e": {
+        "role": "reader",
+        "value": {
+          "id": "26900b48-e977-4404-8309-8259eb22ef1e",
+          "version": 352,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I have tried Super, but it cannot be customized for free but it could fully support features of Notion"
+              ]
+            ]
+          },
+          "created_time": 1648612020000,
+          "last_edited_time": 1648612080000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dc28f6c8-2fa4-4b42-8c36-74857333715d": {
+        "role": "reader",
+        "value": {
+          "id": "dc28f6c8-2fa4-4b42-8c36-74857333715d",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648612080000,
+          "last_edited_time": 1648612080000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9fb8ce7e-73d3-444e-8bfa-b0e916d8fbf0": {
+        "role": "reader",
+        "value": {
+          "id": "9fb8ce7e-73d3-444e-8bfa-b0e916d8fbf0",
+          "version": 163,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "And my experience with Super wasn’t smooth either, sometimes it’s not showing the most updated post, its behavior is a little bit unpredictable"
+              ]
+            ]
+          },
+          "created_time": 1648612080000,
+          "last_edited_time": 1648612560000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e1d4edd9-df4b-46d0-a32e-44a58764cc83": {
+        "role": "reader",
+        "value": {
+          "id": "e1d4edd9-df4b-46d0-a32e-44a58764cc83",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648612020000,
+          "last_edited_time": 1648612020000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "10693cc5-c18e-476a-8ed8-4ec654e01f7d": {
+        "role": "reader",
+        "value": {
+          "id": "10693cc5-c18e-476a-8ed8-4ec654e01f7d",
+          "version": 2,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "There are some blogs already mentioning how to integrate your Notion database to a blog site:"
+              ]
+            ]
+          },
+          "created_time": 1648611360000,
+          "last_edited_time": 1648612020000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2127eecc-8a26-4572-9a6b-c646aee9a536": {
+        "role": "reader",
+        "value": {
+          "id": "2127eecc-8a26-4572-9a6b-c646aee9a536",
+          "version": 9,
+          "type": "text",
+          "created_time": 1648611600000,
+          "last_edited_time": 1648611600000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "df3d2392-4984-410c-b20f-a784b6bc22cf": {
+        "role": "reader",
+        "value": {
+          "id": "df3d2392-4984-410c-b20f-a784b6bc22cf",
+          "version": 3,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://dev.to/solomon04/build-a-blog-powered-by-nextjs-notion-api-57pj",
+                [["a", "https://dev.to/solomon04/build-a-blog-powered-by-nextjs-notion-api-57pj"]]
+              ]
+            ]
+          },
+          "created_time": 1648611600000,
+          "last_edited_time": 1648611600000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9e8d9b3f-224b-4834-ad64-b371cabdea5a": {
+        "role": "reader",
+        "value": {
+          "id": "9e8d9b3f-224b-4834-ad64-b371cabdea5a",
+          "version": 279,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This blog does give a great intro to integrate Notion API, but it’s not really a static website, every time the client request a page, it will call the api directly to Notion, which might hit a limit very quickly"
+              ]
+            ]
+          },
+          "created_time": 1648611600000,
+          "last_edited_time": 1648611960000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3a8b254f-1f61-46e4-82e3-19a6e859f628": {
+        "role": "reader",
+        "value": {
+          "id": "3a8b254f-1f61-46e4-82e3-19a6e859f628",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648611960000,
+          "last_edited_time": 1648611960000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "021db401-a648-46fb-8731-1ee8dbedf99c": {
+        "role": "reader",
+        "value": {
+          "id": "021db401-a648-46fb-8731-1ee8dbedf99c",
+          "version": 16,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7",
+                [
+                  [
+                    "a",
+                    "https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1648611960000,
+          "last_edited_time": 1648612200000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2594eb17-a458-4371-86fd-f03fa3ea3c84": {
+        "role": "reader",
+        "value": {
+          "id": "2594eb17-a458-4371-86fd-f03fa3ea3c84",
+          "version": 223,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This blog introduces Cloudflare workers to cache the page, which will not overload the Notion API, but however, I do not see this as the fastest way to build a blog site"
+              ]
+            ]
+          },
+          "created_time": 1648612260000,
+          "last_edited_time": 1648612620000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a4bd3455-83e6-44ae-ba55-e81a45a57167": {
+        "role": "reader",
+        "value": {
+          "id": "a4bd3455-83e6-44ae-ba55-e81a45a57167",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648611360000,
+          "last_edited_time": 1648611360000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8c616564-9572-43e5-a2ce-6c48d8be71c3": {
+        "role": "reader",
+        "value": {
+          "id": "8c616564-9572-43e5-a2ce-6c48d8be71c3",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648611360000,
+          "last_edited_time": 1648611360000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "92159b8e-0967-450a-adc1-ed7f0f09b75a": {
+        "role": "reader",
+        "value": {
+          "id": "92159b8e-0967-450a-adc1-ed7f0f09b75a",
+          "version": 100,
+          "type": "sub_header",
+          "properties": { "title": [["Common way to bootstrap a site quickly"]] },
+          "created_time": 1648611379495,
+          "last_edited_time": 1648612620000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "82734b54-a123-448f-9574-67d3c587aef0": {
+        "role": "reader",
+        "value": {
+          "id": "82734b54-a123-448f-9574-67d3c587aef0",
+          "version": 66,
+          "type": "text",
+          "properties": { "title": [["That is using a SSG (Static Site Generator)"]] },
+          "created_time": 1648611240000,
+          "last_edited_time": 1648617600000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "09524a37-494b-45b1-be8b-68b35d2f02d1": {
+        "role": "reader",
+        "value": {
+          "id": "09524a37-494b-45b1-be8b-68b35d2f02d1",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648617600000,
+          "last_edited_time": 1648617600000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3add4e0a-c826-4d8b-bf8b-f9097184c75b": {
+        "role": "reader",
+        "value": {
+          "id": "3add4e0a-c826-4d8b-bf8b-f9097184c75b",
+          "version": 429,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["The idea to bootstrap a site is using a template and markdown files (placed in a "],
+              ["data", [["c"]]],
+              [
+                " folder), they will be pushed together to a Git repository, which will trigger static site service render the whole site together with contents embedded whenever you push new markdown posts to git"
+              ]
+            ]
+          },
+          "created_time": 1648617600000,
+          "last_edited_time": 1648618680000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c25608d1-2e8d-4cdf-8d20-7d0c3af445d9": {
+        "role": "reader",
+        "value": {
+          "id": "c25608d1-2e8d-4cdf-8d20-7d0c3af445d9",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618680000,
+          "last_edited_time": 1648618680000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a8877ccd-1d96-4d65-8729-30a8eb6e593d": {
+        "role": "reader",
+        "value": {
+          "id": "a8877ccd-1d96-4d65-8729-30a8eb6e593d",
+          "version": 159,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "That means, you need to use git services to publish your posts, but without the need to write a backend or any CMS"
+              ]
+            ]
+          },
+          "created_time": 1648618680000,
+          "last_edited_time": 1648618740000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e02c231a-f362-4748-a421-c6ed484c667d": {
+        "role": "reader",
+        "value": {
+          "id": "e02c231a-f362-4748-a421-c6ed484c667d",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648721760000,
+          "last_edited_time": 1648721760000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ab072a2d-5fa0-4f07-b170-6bab0660e0d9": {
+        "role": "reader",
+        "value": {
+          "id": "ab072a2d-5fa0-4f07-b170-6bab0660e0d9",
+          "version": 198,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "But here instead of using markdowns, I’m saving the query result of Notion API to the blog data, and use "
+              ],
+              ["react-notion", [["c"]]],
+              [" to render the page"]
+            ]
+          },
+          "created_time": 1648721760000,
+          "last_edited_time": 1648721820000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "970dc49e-86fb-480a-ae50-3345cad27c24": {
+        "role": "reader",
+        "value": {
+          "id": "970dc49e-86fb-480a-ae50-3345cad27c24",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648617960000,
+          "last_edited_time": 1648617960000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c144623b-b0bb-4d7d-a031-68e0ba595260": {
+        "role": "reader",
+        "value": {
+          "id": "c144623b-b0bb-4d7d-a031-68e0ba595260",
+          "version": 334,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["I’m using "],
+              ["‣", [["eoi", "46c0e431-2f61-4d81-9842-cb60b9d44dc5"]]],
+              [" as the starter, and modify some sites data (all data lies in "],
+              ["data", [["c"]]],
+              [
+                " repo and tailwind css properties into a glassmorphism style with water marbles background that I randomly found on Unsplash, and modify the find tags algo under the "
+              ],
+              ["lib", [["c"]]],
+              [" library and render page logic"]
+            ]
+          },
+          "created_time": 1648617960000,
+          "last_edited_time": 1648722240000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "46c0e431-2f61-4d81-9842-cb60b9d44dc5": {
+        "role": "reader",
+        "value": {
+          "id": "46c0e431-2f61-4d81-9842-cb60b9d44dc5",
+          "version": 3,
+          "type": "external_object_instance",
+          "format": {
+            "domain": "github.com",
+            "original_url": "https://github.com/timlrx/tailwind-nextjs-starter-blog"
+          },
+          "created_time": 1648618080000,
+          "last_edited_time": 1648618080000,
+          "parent_id": "c144623b-b0bb-4d7d-a031-68e0ba595260",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a0ebee27-5bff-43bd-b52f-eba030abef86": {
+        "role": "reader",
+        "value": {
+          "id": "a0ebee27-5bff-43bd-b52f-eba030abef86",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618140000,
+          "last_edited_time": 1648618140000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1c4ad896-7a83-4901-b509-a199d46f3283": {
+        "role": "reader",
+        "value": {
+          "id": "1c4ad896-7a83-4901-b509-a199d46f3283",
+          "version": 166,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Maybe I will share how I feel about "],
+              ["tailwind-css", [["c"]]],
+              [", to be honest, I think it’s better than my old fav css framework "],
+              ["styled-components", [["c"]]]
+            ]
+          },
+          "created_time": 1648618140000,
+          "last_edited_time": 1648618200000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5ad4b859-8316-484c-b965-d207c3582355": {
+        "role": "reader",
+        "value": {
+          "id": "5ad4b859-8316-484c-b965-d207c3582355",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618080000,
+          "last_edited_time": 1648618080000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4be4f16b-2b96-4431-8ac1-d07f5e9f9be2": {
+        "role": "reader",
+        "value": {
+          "id": "4be4f16b-2b96-4431-8ac1-d07f5e9f9be2",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648618080000,
+          "last_edited_time": 1648618080000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9136cf95-f885-4b39-bf3c-a2fb2178ed94": {
+        "role": "reader",
+        "value": {
+          "id": "9136cf95-f885-4b39-bf3c-a2fb2178ed94",
+          "version": 36,
+          "type": "sub_header",
+          "properties": { "title": [["Sync Notion Notes to a Repo"]] },
+          "created_time": 1648618114537,
+          "last_edited_time": 1648618080000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dca1af8c-3705-456b-a648-2b71799bdfb5": {
+        "role": "reader",
+        "value": {
+          "id": "dca1af8c-3705-456b-a648-2b71799bdfb5",
+          "version": 97,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The next question is how to sync the notion notes to a repo, and this is the whole point "
+              ]
+            ]
+          },
+          "created_time": 1648618080000,
+          "last_edited_time": 1648618620000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "db667995-c5da-4891-8bd6-f6806efa0968": {
+        "role": "reader",
+        "value": {
+          "id": "db667995-c5da-4891-8bd6-f6806efa0968",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618740000,
+          "last_edited_time": 1648618740000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "06751864-11df-4f93-b4c9-21d3f018b8f0": {
+        "role": "reader",
+        "value": {
+          "id": "06751864-11df-4f93-b4c9-21d3f018b8f0",
+          "version": 38,
+          "type": "text",
+          "properties": { "title": [["I wrote a script here:"]] },
+          "created_time": 1648618740000,
+          "last_edited_time": 1648618740000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a7f3ae4c-0cfd-4c54-a3d1-18c4d8f723c4": {
+        "role": "reader",
+        "value": {
+          "id": "a7f3ae4c-0cfd-4c54-a3d1-18c4d8f723c4",
+          "version": 5,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://github.com/wenwkich/fluidfeed-sync",
+                [["a", "https://github.com/wenwkich/fluidfeed-sync"]]
+              ]
+            ]
+          },
+          "created_time": 1648618740000,
+          "last_edited_time": 1648618740000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9b9bd85e-2b1d-443b-85ff-6716905bc145": {
+        "role": "reader",
+        "value": {
+          "id": "9b9bd85e-2b1d-443b-85ff-6716905bc145",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648618800000,
+          "last_edited_time": 1648618800000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "de6ebf2c-83c3-485a-8a05-ea435d9357c0": {
+        "role": "reader",
+        "value": {
+          "id": "de6ebf2c-83c3-485a-8a05-ea435d9357c0",
+          "version": 216,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "What this script does is that it will grab the markdown data with Notion API and save the markdown files to the local git repo, then you just need to use git commands to push the post"
+              ]
+            ]
+          },
+          "created_time": 1648618080000,
+          "last_edited_time": 1648618920000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "68b6d234-5ca8-49db-84b1-06be2bd31a3c": {
+        "role": "reader",
+        "value": {
+          "id": "68b6d234-5ca8-49db-84b1-06be2bd31a3c",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618920000,
+          "last_edited_time": 1648618920000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "138a3767-aa1b-4b6c-83c6-c27a0eb1519e": {
+        "role": "reader",
+        "value": {
+          "id": "138a3767-aa1b-4b6c-83c6-c27a0eb1519e",
+          "version": 201,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "And I’m combining node script call and git stage, commit, push process into a Shortcut in my Mac and this really reduce a lot of friction when I publish a site"
+              ]
+            ]
+          },
+          "created_time": 1648618920000,
+          "last_edited_time": 1648619220000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "11218d80-e165-435f-9bc3-ff1a500f521b": {
+        "role": "reader",
+        "value": {
+          "id": "11218d80-e165-435f-9bc3-ff1a500f521b",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648619340000,
+          "last_edited_time": 1648619340000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ac5aa76d-0251-49d7-add4-5b55e600af3f": {
+        "role": "reader",
+        "value": {
+          "id": "ac5aa76d-0251-49d7-add4-5b55e600af3f",
+          "version": 76,
+          "type": "text",
+          "properties": {
+            "title": [["Just choose “Run shell script” and write scripts like this:"]]
+          },
+          "created_time": 1648619340000,
+          "last_edited_time": 1648619400000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9843e3a3-46d0-4ef2-8411-ef9589c67d3d": {
+        "role": "reader",
+        "value": {
+          "id": "9843e3a3-46d0-4ef2-8411-ef9589c67d3d",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648619400000,
+          "last_edited_time": 1648619400000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "715d1e16-8f60-404a-8162-58341f3e28e0": {
+        "role": "reader",
+        "value": {
+          "id": "715d1e16-8f60-404a-8162-58341f3e28e0",
+          "version": 19,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "source ~/.zshrc\ncd ~/ws/fluidfeed-sync\nnode sync.js\ncd ~/ws/fluidfeed\ngit add .\ngit commit -m 'add posts'\ngit push"
+              ]
+            ],
+            "language": [["Shell"]]
+          },
+          "created_time": 1648619400000,
+          "last_edited_time": 1648620900000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1dfa7571-e7df-47ec-9e6b-d6355ebcdcf4": {
+        "role": "reader",
+        "value": {
+          "id": "1dfa7571-e7df-47ec-9e6b-d6355ebcdcf4",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648618920000,
+          "last_edited_time": 1648619400000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3fec959c-d501-4060-8428-5bf2bb3be7a3": {
+        "role": "reader",
+        "value": {
+          "id": "3fec959c-d501-4060-8428-5bf2bb3be7a3",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648618920000,
+          "last_edited_time": 1648618920000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cc3db313-f6c1-46b6-9cf3-fc172c9a61f2": {
+        "role": "reader",
+        "value": {
+          "id": "cc3db313-f6c1-46b6-9cf3-fc172c9a61f2",
+          "version": 53,
+          "type": "sub_header",
+          "properties": { "title": [["Using Vercel to publish your site"]] },
+          "created_time": 1648618920000,
+          "last_edited_time": 1648618920000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e9aa105e-a76a-459c-b1ab-f96b914ec501": {
+        "role": "reader",
+        "value": {
+          "id": "e9aa105e-a76a-459c-b1ab-f96b914ec501",
+          "version": 84,
+          "type": "text",
+          "properties": {
+            "title": [["I am stunned by how easy it is for Vercel to set up a site"]]
+          },
+          "created_time": 1648618920000,
+          "last_edited_time": 1648619340000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8065ae59-058e-482a-9079-a63e2f5a43f2": {
+        "role": "reader",
+        "value": {
+          "id": "8065ae59-058e-482a-9079-a63e2f5a43f2",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648618980000,
+          "last_edited_time": 1648618980000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "53d1adaf-6f3d-48b8-822a-39e9989a61d4": {
+        "role": "reader",
+        "value": {
+          "id": "53d1adaf-6f3d-48b8-822a-39e9989a61d4",
+          "version": 93,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["I will give 100/10 for its user experience, the whole process runs very smoothly"]
+            ]
+          },
+          "created_time": 1648618980000,
+          "last_edited_time": 1648619040000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6eaa9110-7418-41fc-89e7-f70aef7d7afc": {
+        "role": "reader",
+        "value": {
+          "id": "6eaa9110-7418-41fc-89e7-f70aef7d7afc",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648619040000,
+          "last_edited_time": 1648619040000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "be848adf-c51a-4825-98d6-66ff058693a4": {
+        "role": "reader",
+        "value": {
+          "id": "be848adf-c51a-4825-98d6-66ff058693a4",
+          "version": 173,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "You just need to log in with your Github Account, choose the Repo and it will immediately recognize the Next.js command and bang, your site is published"
+              ]
+            ]
+          },
+          "created_time": 1648619040000,
+          "last_edited_time": 1648619100000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a8c42a2c-55fa-4622-a538-aa77ea918eab": {
+        "role": "reader",
+        "value": {
+          "id": "a8c42a2c-55fa-4622-a538-aa77ea918eab",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648619100000,
+          "last_edited_time": 1648619100000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fac50fb2-0f44-4b31-9e3e-db40045263c0": {
+        "role": "reader",
+        "value": {
+          "id": "fac50fb2-0f44-4b31-9e3e-db40045263c0",
+          "version": 191,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The whole process to publish a front end site is so easy that you don’t even need to read the documentation"
+              ]
+            ]
+          },
+          "created_time": 1648619100000,
+          "last_edited_time": 1648619100000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "95d45f06-2039-4760-a523-946c0c40a2be": {
+        "role": "reader",
+        "value": {
+          "id": "95d45f06-2039-4760-a523-946c0c40a2be",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648619220000,
+          "last_edited_time": 1648619220000,
+          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}

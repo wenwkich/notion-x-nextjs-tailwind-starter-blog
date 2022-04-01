@@ -1,0 +1,2976 @@
+{
+  "object": "page",
+  "id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+  "created_time": "2022-03-28T07:15:00.000Z",
+  "last_edited_time": "2022-03-29T14:36:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb", "name": "express", "color": "brown" },
+        { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "name": "auth", "color": "green" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-29T14:36:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-28T07:15:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "1593a4a1f9b44436b5a5716985e26914-Session-Cookies-Made-Easy"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": { "content": "Session Cookies Made Easy", "link": null },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Session Cookies Made Easy",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Session-Cookies-Made-Easy-1593a4a1f9b44436b5a5716985e26914",
+  "recordMap": {
+    "block": {
+      "1593a4a1-f9b4-4436-b5a5-716985e26914": {
+        "role": "reader",
+        "value": {
+          "id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "version": 397,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["express,auth"]],
+            "hRWZ": [["Session Cookies Made Easy"]],
+            "title": [["Session Cookies Made Easy"]]
+          },
+          "content": [
+            "efc57f37-b051-4d7d-838c-4874ae6ecfa8",
+            "0b60de7f-109e-446d-9e0d-daa6f2a0d935",
+            "416d6c0c-45e7-4a8b-9b14-a75017a13315",
+            "d90b05a3-2bbe-443d-96f2-3bc1c6ae084b",
+            "eb7dd4ca-b0db-4655-9aa1-c2b697edf6a5",
+            "9ba6a676-4a32-4e8f-8a48-1f6463232d14",
+            "89a5eb91-6410-42af-85b7-c37a70a1ba64",
+            "dccafb9d-51cd-49ed-9628-916889bb1ec4",
+            "339e20a2-6c6b-476f-ae6e-f4bdd84d6fed",
+            "a78b2ab4-2f0d-4feb-b17f-761706d19856",
+            "2516e293-5543-44ee-989e-4428af7cd03f",
+            "2bab7ae5-310c-4c55-9e77-8032a3e9a392",
+            "7409a8ec-b589-47fb-93b8-17b399f461b0",
+            "1bdfd67c-fae3-4730-b224-498ac5a9206b",
+            "f0719436-6576-40af-83ef-f35e830bca8e",
+            "74c052a4-9280-43b3-8d38-596b0190b269",
+            "15b78cc4-ed96-43be-b233-2e0849059098",
+            "9983f04c-4aae-49b6-9f68-ddbeca0828a2",
+            "819e838d-167c-4831-96c1-9f96b6df4aec",
+            "42478fb4-06b5-425e-8dd1-f4a04b815d42",
+            "a53991de-44bd-40c6-a866-5a45664b13af",
+            "5f4d12cf-ef8a-4464-a9ab-ee4a917392dc",
+            "e678bdb5-2f71-434b-a276-ff7428e019b8",
+            "25c0f66c-9631-426d-b4f0-8d625125d5c6",
+            "251612d6-1dd1-4c8e-ac9f-a5c5c9a94035",
+            "7a77cf04-16c1-456c-b9d0-c7c6a9e27a89",
+            "4acc40a4-a0fa-438d-88d1-5955801aa34a",
+            "a65730fc-8611-407b-a515-8a8ccb3f0c16",
+            "161ceafb-5282-41d7-8e15-487a40cb523d",
+            "2ab47931-b8fa-4275-ba71-4059a2ed9dee",
+            "2c4f0290-50e0-4553-a07d-e66246468d99",
+            "09231bf5-761e-4fed-8033-df3d8a2aa8c2",
+            "67ea98aa-e630-42a3-96d4-69bba19e6082",
+            "012a8c20-e737-474b-b5a3-93459b403f79",
+            "65370459-24b0-4d2a-af60-eaa68df4c0aa",
+            "f4f59717-f69f-4093-8078-603cca00c2e0",
+            "4ee2f973-ad93-42d2-b73e-ac960045dea0",
+            "ae18a36d-8c07-4ed9-8c52-57b36849a695",
+            "8e4e0e05-4d34-4da8-9982-9c79f7a2ffe0",
+            "db1ef891-156f-4eda-b08c-ee4db7a15017",
+            "7a9a7970-199c-46b1-a1ac-afc7f1aa448f",
+            "9196549a-830f-4ff6-a05e-72271c7b630b",
+            "d078e25c-3585-44d1-ae04-e58b3d67492d",
+            "66e0b42d-06ed-481e-8049-2992bba44ffb",
+            "9d48d4b0-ff43-47c1-a212-5318dd958c95",
+            "a11dd91e-af65-4aa9-8b51-c8d145380df1",
+            "54a322a3-963f-4579-87f2-ca4f8554878e",
+            "4607f3f9-bd0d-4d66-af99-9d5d28ebb35a",
+            "60c63f68-94e1-4680-8a3b-f0aa75e5fda4",
+            "d9b8c439-60da-4ff4-a0f8-a5c59c2f52d2",
+            "d3efafd2-c1a8-485b-a34d-b936cbcfb407",
+            "34530dbe-7c57-44f3-be3c-023eef10a227",
+            "c68f6765-ea3f-45fc-bfd4-14af1ab40055",
+            "53ad5020-4dc5-48b3-b645-272aa0449336",
+            "30d2136e-58ee-43e4-ad81-68c62290a045",
+            "ffba9b06-49c3-4d20-bfcd-f66e50164a8a",
+            "61266a88-ac28-491c-8d65-bc92714ecdd8",
+            "22bdb363-3771-44b7-9e70-87b55e5dafc1",
+            "3a1622fb-5332-4f5c-81d5-00ed35bd2df8",
+            "18bd5629-2f8b-4d2d-9e5d-40925d085cb3",
+            "eaa7bb8e-577f-4ba6-a96a-afc57273b8b8",
+            "346b5967-4193-45c5-b4ef-b4965000e56a",
+            "b64dd49a-0b4c-4db3-b2cb-3faaccb3e17a",
+            "1b9d63d8-c51e-498d-8557-24bd038ad0cc",
+            "0f6715a9-01b6-40eb-b417-0bc010844b94",
+            "c786ac9c-783a-4da1-8cb6-512a29645571",
+            "2fabdbbd-e503-43b7-8d31-eb44eae8e548",
+            "59f0fe09-3892-404a-a4de-2f1c055e72dd",
+            "18e0795d-85ea-4295-8eff-9278b7604899",
+            "90198c9b-c384-4708-87c2-9ff951652b32",
+            "ffcb671e-4520-4cca-8fb7-915408978ceb",
+            "079d4652-e8d7-4e6c-b413-4fced4f102f7",
+            "76a5e4b9-51ec-435e-a005-e06290c27c11",
+            "4930ec0c-4ff3-4f62-a4f7-f648f3065bf5",
+            "de6f83f7-fde8-4210-bc1f-0026c7166b53",
+            "d9f8d99e-98c5-4da4-b69f-21451c416da3",
+            "4cce74c5-0934-43f5-b3c7-09f16c354195",
+            "8997263f-cdf7-4b9d-877b-cf94373378d5",
+            "b7cbb94c-6b3a-4a43-b2b6-493d5888c17a",
+            "3997287f-5a6d-4601-8c36-e5ce40704911",
+            "8ea7ffda-dc5f-496c-b0ff-1142da78940d",
+            "e2cc5b56-bad1-480b-8307-dee5f7ca2b13",
+            "b2f47bd3-e01c-475b-ad5b-140b5b7d314a",
+            "508b7d4c-55d9-40b7-b89f-94f038ab3b78",
+            "00bf8cae-cff9-4c28-851d-89f1f3b7e944",
+            "ea3c29ad-d5c5-4f93-94e4-f995a65f3401",
+            "4129145a-bb0d-47a1-96bf-363665d87dd6",
+            "3c08a341-c177-48f7-917e-694ba8dae726",
+            "a9eca75b-29fa-4e0c-a76e-efbdc0ebacfb",
+            "4381b42c-286d-4cb9-a068-0208e866a2db",
+            "c4b25f14-dd47-41ad-91b3-a715a2e875ca",
+            "8ac6ef95-c46d-4512-a51a-e667d65e2900",
+            "96a990a5-383d-4dc0-b37f-5842d90887dc",
+            "dd24b97e-cb5a-4ef1-811f-dce2ad94766c",
+            "b5e7c442-8d15-40da-93df-2954c139a4d8",
+            "97b921c6-16d7-4f11-b408-2754e2746e99",
+            "074c9634-a2a1-49b1-af24-bb1ce504054a",
+            "5d5992d1-a99f-4755-b9f0-830163c02583",
+            "8664789e-3da8-4664-a226-37f881ac4606",
+            "7a90767d-4e22-43d6-9f87-d6e67d062e10",
+            "11e5873a-84c8-4ad0-8bcc-2fd79e5cc56d",
+            "86d63a0b-4b4c-4236-bbc0-7d35b8c72672",
+            "ec0a45cd-ef46-430a-807a-88fc0d9d932a",
+            "28a6ab99-340f-4a9a-8043-7d998635818a",
+            "e44ff1bb-8907-4a97-abb1-c77603823e41",
+            "a9f42dfa-97e2-48e5-8119-3b2588c98901",
+            "5ec2a486-8719-438c-bbb3-87edaa883918",
+            "2efac40d-0ec3-42ab-9e3b-1ba22113de8f",
+            "e1234609-cd4e-44b0-8464-d07f74f7393f",
+            "0ad8cec7-28e6-4611-b576-736475584739",
+            "7e9bb994-27d4-4cea-9746-95cef25941e9",
+            "52a2f848-ff58-4f90-ba1f-fb4cfe2a6dd9",
+            "adf7ee99-23b3-4242-8a7c-0339cc6c1400",
+            "88963183-ced5-4151-805a-bf8f5ff6d77b",
+            "32dfaf96-0df9-4696-8b24-e4e4e7c1f61f",
+            "86411d40-3be4-4ca2-9de9-3cec70bfd152",
+            "dc3ef3bb-2e4f-4ff8-9057-1c42df0fc2b3",
+            "9678d0a6-5ea8-4e37-ae41-47c6b8e42bd4"
+          ],
+          "created_time": 1648451700000,
+          "last_edited_time": 1648564560000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "efc57f37-b051-4d7d-838c-4874ae6ecfa8": {
+        "role": "reader",
+        "value": {
+          "id": "efc57f37-b051-4d7d-838c-4874ae6ecfa8",
+          "version": 87,
+          "type": "text",
+          "properties": { "title": [["How to use the most simple way to do authentication?"]] },
+          "created_time": 1648453620000,
+          "last_edited_time": 1648453740000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0b60de7f-109e-446d-9e0d-daa6f2a0d935": {
+        "role": "reader",
+        "value": {
+          "id": "0b60de7f-109e-446d-9e0d-daa6f2a0d935",
+          "version": 11,
+          "type": "text",
+          "created_time": 1648454640000,
+          "last_edited_time": 1648454640000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "416d6c0c-45e7-4a8b-9b14-a75017a13315": {
+        "role": "reader",
+        "value": {
+          "id": "416d6c0c-45e7-4a8b-9b14-a75017a13315",
+          "version": 17,
+          "type": "callout",
+          "properties": {
+            "title": [
+              [
+                "TLDR: when user issues a sign in request, store the key of user and expired info into something called "
+              ],
+              ["session", [["c"]]],
+              [" in the server (with a key-value store), and then we derive a "],
+              ["signature", [["c"]]],
+              [" of "],
+              ["session", [["c"]]],
+              ["’s key, which will return to client and stored in "],
+              ["httpOnly Cookies", [["c"]]]
+            ]
+          },
+          "format": { "page_icon": "💡", "block_color": "gray_background" },
+          "created_time": 1648454667871,
+          "last_edited_time": 1648454700000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d90b05a3-2bbe-443d-96f2-3bc1c6ae084b": {
+        "role": "reader",
+        "value": {
+          "id": "d90b05a3-2bbe-443d-96f2-3bc1c6ae084b",
+          "version": 7,
+          "type": "text",
+          "created_time": 1648457760000,
+          "last_edited_time": 1648457760000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "eb7dd4ca-b0db-4655-9aa1-c2b697edf6a5": {
+        "role": "reader",
+        "value": {
+          "id": "eb7dd4ca-b0db-4655-9aa1-c2b697edf6a5",
+          "version": 81,
+          "type": "text",
+          "properties": {
+            "title": [["For a newbie, you got confused, but somehow you know how to use a library"]]
+          },
+          "created_time": 1648457700000,
+          "last_edited_time": 1648457820000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9ba6a676-4a32-4e8f-8a48-1f6463232d14": {
+        "role": "reader",
+        "value": {
+          "id": "9ba6a676-4a32-4e8f-8a48-1f6463232d14",
+          "version": 230,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Ok, we use a library, but do you know what does the library do and why does it do that?"
+              ]
+            ]
+          },
+          "created_time": 1648457737969,
+          "last_edited_time": 1648461000000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "89a5eb91-6410-42af-85b7-c37a70a1ba64": {
+        "role": "reader",
+        "value": {
+          "id": "89a5eb91-6410-42af-85b7-c37a70a1ba64",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dccafb9d-51cd-49ed-9628-916889bb1ec4": {
+        "role": "reader",
+        "value": {
+          "id": "dccafb9d-51cd-49ed-9628-916889bb1ec4",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648452960000,
+          "last_edited_time": 1648452960000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "339e20a2-6c6b-476f-ae6e-f4bdd84d6fed": {
+        "role": "reader",
+        "value": {
+          "id": "339e20a2-6c6b-476f-ae6e-f4bdd84d6fed",
+          "version": 416,
+          "type": "sub_header",
+          "properties": { "title": [["What is a Session?"]] },
+          "created_time": 1648453620000,
+          "last_edited_time": 1648460460000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a78b2ab4-2f0d-4feb-b17f-761706d19856": {
+        "role": "reader",
+        "value": {
+          "id": "a78b2ab4-2f0d-4feb-b17f-761706d19856",
+          "version": 47,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "From client’s perspective, we all know a user need to register with a username and password to create a "
+              ],
+              ["account", [["c"]]],
+              [
+                ", but somehow we need to keep user signed in, that means the server need to persist something in the client side"
+              ]
+            ]
+          },
+          "created_time": 1648453140000,
+          "last_edited_time": 1648454880000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2516e293-5543-44ee-989e-4428af7cd03f": {
+        "role": "reader",
+        "value": {
+          "id": "2516e293-5543-44ee-989e-4428af7cd03f",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648453440000,
+          "last_edited_time": 1648453440000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2bab7ae5-310c-4c55-9e77-8032a3e9a392": {
+        "role": "reader",
+        "value": {
+          "id": "2bab7ae5-310c-4c55-9e77-8032a3e9a392",
+          "version": 87,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Luckily, we’ve got "],
+              ["cookies", [["c"]]],
+              [", and this is exactly what cookies does"]
+            ]
+          },
+          "created_time": 1648453440000,
+          "last_edited_time": 1648454760000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7409a8ec-b589-47fb-93b8-17b399f461b0": {
+        "role": "reader",
+        "value": {
+          "id": "7409a8ec-b589-47fb-93b8-17b399f461b0",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1bdfd67c-fae3-4730-b224-498ac5a9206b": {
+        "role": "reader",
+        "value": {
+          "id": "1bdfd67c-fae3-4730-b224-498ac5a9206b",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648453440000,
+          "last_edited_time": 1648453440000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f0719436-6576-40af-83ef-f35e830bca8e": {
+        "role": "reader",
+        "value": {
+          "id": "f0719436-6576-40af-83ef-f35e830bca8e",
+          "version": 148,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["From server’s perspective, how the hell does it know you are Alice or Bob?"]
+            ]
+          },
+          "created_time": 1648460280000,
+          "last_edited_time": 1648460280000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "74c052a4-9280-43b3-8d38-596b0190b269": {
+        "role": "reader",
+        "value": {
+          "id": "74c052a4-9280-43b3-8d38-596b0190b269",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648454100000,
+          "last_edited_time": 1648454100000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "15b78cc4-ed96-43be-b233-2e0849059098": {
+        "role": "reader",
+        "value": {
+          "id": "15b78cc4-ed96-43be-b233-2e0849059098",
+          "version": 384,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This is when we need a "],
+              ["session", [["c"]]],
+              [
+                ", server usually needs to handle different client’s request, the mapping of client and user is what we called a "
+              ],
+              ["session", [["c"]]],
+              [", that’s why server usually needs a key value store"]
+            ]
+          },
+          "created_time": 1648453485340,
+          "last_edited_time": 1648455060000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9983f04c-4aae-49b6-9f68-ddbeca0828a2": {
+        "role": "reader",
+        "value": {
+          "id": "9983f04c-4aae-49b6-9f68-ddbeca0828a2",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648455000000,
+          "last_edited_time": 1648455000000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "819e838d-167c-4831-96c1-9f96b6df4aec": {
+        "role": "reader",
+        "value": {
+          "id": "819e838d-167c-4831-96c1-9f96b6df4aec",
+          "version": 164,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Imagine you have different conversation with your friends on the phone, each convo window is a "
+              ],
+              ["session", [["c"]]],
+              [" for you, and you know who you talking to by looking at the conversation window"]
+            ]
+          },
+          "created_time": 1648455000000,
+          "last_edited_time": 1648460160000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "42478fb4-06b5-425e-8dd1-f4a04b815d42": {
+        "role": "reader",
+        "value": {
+          "id": "42478fb4-06b5-425e-8dd1-f4a04b815d42",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a53991de-44bd-40c6-a866-5a45664b13af": {
+        "role": "reader",
+        "value": {
+          "id": "a53991de-44bd-40c6-a866-5a45664b13af",
+          "version": 17,
+          "type": "divider",
+          "created_time": 1648460280000,
+          "last_edited_time": 1648460280000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5f4d12cf-ef8a-4464-a9ab-ee4a917392dc": {
+        "role": "reader",
+        "value": {
+          "id": "5f4d12cf-ef8a-4464-a9ab-ee4a917392dc",
+          "version": 13,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Identify a window is easy for you because you are a human being, but for server, it needs a id to know what session it’s handling so that it could serve the right user"
+              ]
+            ]
+          },
+          "created_time": 1648460302827,
+          "last_edited_time": 1648460280000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e678bdb5-2f71-434b-a276-ff7428e019b8": {
+        "role": "reader",
+        "value": {
+          "id": "e678bdb5-2f71-434b-a276-ff7428e019b8",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648460280000,
+          "last_edited_time": 1648460280000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "25c0f66c-9631-426d-b4f0-8d625125d5c6": {
+        "role": "reader",
+        "value": {
+          "id": "25c0f66c-9631-426d-b4f0-8d625125d5c6",
+          "version": 133,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["So the server just return to client and “tag” the client with a session id, with "],
+              ["cookie", [["c"]]]
+            ]
+          },
+          "created_time": 1648460280000,
+          "last_edited_time": 1648460400000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "251612d6-1dd1-4c8e-ac9f-a5c5c9a94035": {
+        "role": "reader",
+        "value": {
+          "id": "251612d6-1dd1-4c8e-ac9f-a5c5c9a94035",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7a77cf04-16c1-456c-b9d0-c7c6a9e27a89": {
+        "role": "reader",
+        "value": {
+          "id": "7a77cf04-16c1-456c-b9d0-c7c6a9e27a89",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648455060000,
+          "last_edited_time": 1648455060000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4acc40a4-a0fa-438d-88d1-5955801aa34a": {
+        "role": "reader",
+        "value": {
+          "id": "4acc40a4-a0fa-438d-88d1-5955801aa34a",
+          "version": 227,
+          "type": "sub_header",
+          "properties": { "title": [["What’s stored in "], ["session", [["c"]]], ["?"]] },
+          "created_time": 1648455120000,
+          "last_edited_time": 1648457040000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a65730fc-8611-407b-a515-8a8ccb3f0c16": {
+        "role": "reader",
+        "value": {
+          "id": "a65730fc-8611-407b-a515-8a8ccb3f0c16",
+          "version": 8,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "We don’t need to put all the user information, because other information such as user’s role might change, you just need to query user’s role with other relational database, so we need to just put the user id"
+              ]
+            ]
+          },
+          "created_time": 1648455180000,
+          "last_edited_time": 1648457040000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "161ceafb-5282-41d7-8e15-487a40cb523d": {
+        "role": "reader",
+        "value": {
+          "id": "161ceafb-5282-41d7-8e15-487a40cb523d",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648455240000,
+          "last_edited_time": 1648455240000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2ab47931-b8fa-4275-ba71-4059a2ed9dee": {
+        "role": "reader",
+        "value": {
+          "id": "2ab47931-b8fa-4275-ba71-4059a2ed9dee",
+          "version": 246,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Also a expiration time needs to be put, because you usually don’t want a user to be logged in forever if they are not active, plus it’ll get easy for others to exploit if a token like this is not rotated constantly"
+              ]
+            ]
+          },
+          "created_time": 1648455240000,
+          "last_edited_time": 1648455360000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2c4f0290-50e0-4553-a07d-e66246468d99": {
+        "role": "reader",
+        "value": {
+          "id": "2c4f0290-50e0-4553-a07d-e66246468d99",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648455360000,
+          "last_edited_time": 1648455360000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "09231bf5-761e-4fed-8033-df3d8a2aa8c2": {
+        "role": "reader",
+        "value": {
+          "id": "09231bf5-761e-4fed-8033-df3d8a2aa8c2",
+          "version": 214,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Same with other kinds of auth like API key and passwords, if you keep that stale forever, it might leave a longer window for hackers to exploit your credentials"
+              ]
+            ]
+          },
+          "created_time": 1648455360000,
+          "last_edited_time": 1648456080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "67ea98aa-e630-42a3-96d4-69bba19e6082": {
+        "role": "reader",
+        "value": {
+          "id": "67ea98aa-e630-42a3-96d4-69bba19e6082",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "012a8c20-e737-474b-b5a3-93459b403f79": {
+        "role": "reader",
+        "value": {
+          "id": "012a8c20-e737-474b-b5a3-93459b403f79",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648455120000,
+          "last_edited_time": 1648455420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "65370459-24b0-4d2a-af60-eaa68df4c0aa": {
+        "role": "reader",
+        "value": {
+          "id": "65370459-24b0-4d2a-af60-eaa68df4c0aa",
+          "version": 181,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "You might ask if session gets expired constantly, don’t users need to constantly log in?"
+              ]
+            ]
+          },
+          "created_time": 1648456140000,
+          "last_edited_time": 1648456200000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f4f59717-f69f-4093-8078-603cca00c2e0": {
+        "role": "reader",
+        "value": {
+          "id": "f4f59717-f69f-4093-8078-603cca00c2e0",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648456140000,
+          "last_edited_time": 1648456140000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4ee2f973-ad93-42d2-b73e-ac960045dea0": {
+        "role": "reader",
+        "value": {
+          "id": "4ee2f973-ad93-42d2-b73e-ac960045dea0",
+          "version": 184,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Actually, the client side could choose to refresh the session if needed, this will stop annoying the user while keeping them safe, but that will be another topic to discuss"
+              ]
+            ]
+          },
+          "created_time": 1648456140000,
+          "last_edited_time": 1648456260000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ae18a36d-8c07-4ed9-8c52-57b36849a695": {
+        "role": "reader",
+        "value": {
+          "id": "ae18a36d-8c07-4ed9-8c52-57b36849a695",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461480000,
+          "last_edited_time": 1648461480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8e4e0e05-4d34-4da8-9982-9c79f7a2ffe0": {
+        "role": "reader",
+        "value": {
+          "id": "8e4e0e05-4d34-4da8-9982-9c79f7a2ffe0",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648456140000,
+          "last_edited_time": 1648456140000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "db1ef891-156f-4eda-b08c-ee4db7a15017": {
+        "role": "reader",
+        "value": {
+          "id": "db1ef891-156f-4eda-b08c-ee4db7a15017",
+          "version": 59,
+          "type": "sub_header",
+          "properties": { "title": [["What’s stored in "], ["cookie", [["c"]]], ["?"]] },
+          "created_time": 1648457100000,
+          "last_edited_time": 1648457520000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7a9a7970-199c-46b1-a1ac-afc7f1aa448f": {
+        "role": "reader",
+        "value": {
+          "id": "7a9a7970-199c-46b1-a1ac-afc7f1aa448f",
+          "version": 3,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["One thing very important about session cookie is, "],
+              ["we don’t store the actual session data on the client side", [["b"]]],
+              [", why?"]
+            ]
+          },
+          "created_time": 1648456150559,
+          "last_edited_time": 1648457100000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9196549a-830f-4ff6-a05e-72271c7b630b": {
+        "role": "reader",
+        "value": {
+          "id": "9196549a-830f-4ff6-a05e-72271c7b630b",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648455600000,
+          "last_edited_time": 1648455600000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d078e25c-3585-44d1-ae04-e58b3d67492d": {
+        "role": "reader",
+        "value": {
+          "id": "d078e25c-3585-44d1-ae04-e58b3d67492d",
+          "version": 347,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "That’s because the client already knows who the user is, and it only needs to show the session id every time to the server as a pass token"
+              ]
+            ]
+          },
+          "created_time": 1648455420000,
+          "last_edited_time": 1648456320000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "66e0b42d-06ed-481e-8049-2992bba44ffb": {
+        "role": "reader",
+        "value": {
+          "id": "66e0b42d-06ed-481e-8049-2992bba44ffb",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648456320000,
+          "last_edited_time": 1648456320000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9d48d4b0-ff43-47c1-a212-5318dd958c95": {
+        "role": "reader",
+        "value": {
+          "id": "9d48d4b0-ff43-47c1-a212-5318dd958c95",
+          "version": 11,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Then, server will quickly check if such a key exists in its store and check if the session has been expired"
+              ]
+            ]
+          },
+          "created_time": 1648456320000,
+          "last_edited_time": 1648456380000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a11dd91e-af65-4aa9-8b51-c8d145380df1": {
+        "role": "reader",
+        "value": {
+          "id": "a11dd91e-af65-4aa9-8b51-c8d145380df1",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648456380000,
+          "last_edited_time": 1648456380000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "54a322a3-963f-4579-87f2-ca4f8554878e": {
+        "role": "reader",
+        "value": {
+          "id": "54a322a3-963f-4579-87f2-ca4f8554878e",
+          "version": 137,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "That’s why server needs a random id instead of a predictable id, in express, they use "
+              ],
+              ["uid-safe", [["c"]]],
+              [" module"]
+            ]
+          },
+          "created_time": 1648456380000,
+          "last_edited_time": 1648456440000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4607f3f9-bd0d-4d66-af99-9d5d28ebb35a": {
+        "role": "reader",
+        "value": {
+          "id": "4607f3f9-bd0d-4d66-af99-9d5d28ebb35a",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "60c63f68-94e1-4680-8a3b-f0aa75e5fda4": {
+        "role": "reader",
+        "value": {
+          "id": "60c63f68-94e1-4680-8a3b-f0aa75e5fda4",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648456500000,
+          "last_edited_time": 1648456500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d9b8c439-60da-4ff4-a0f8-a5c59c2f52d2": {
+        "role": "reader",
+        "value": {
+          "id": "d9b8c439-60da-4ff4-a0f8-a5c59c2f52d2",
+          "version": 63,
+          "type": "text",
+          "properties": { "title": [["This is what a cookie in express look like:"]] },
+          "created_time": 1648456526021,
+          "last_edited_time": 1648456500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d3efafd2-c1a8-485b-a34d-b936cbcfb407": {
+        "role": "reader",
+        "value": {
+          "id": "d3efafd2-c1a8-485b-a34d-b936cbcfb407",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648456500000,
+          "last_edited_time": 1648456500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "34530dbe-7c57-44f3-be3c-023eef10a227": {
+        "role": "reader",
+        "value": {
+          "id": "34530dbe-7c57-44f3-be3c-023eef10a227",
+          "version": 10,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["s%3A", [["c"]]],
+              ["h30wc0pvSHJCYLVz0tui0Cv6NCCexGV8", [["b"], ["c"]]],
+              ["\n.Cw7O3d354j%2FMcrxrXuWb65%2FRUpV6QdV07axdG0rZc8Y", [["c"]]]
+            ]
+          },
+          "created_time": 1648456500000,
+          "last_edited_time": 1648456500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c68f6765-ea3f-45fc-bfd4-14af1ab40055": {
+        "role": "reader",
+        "value": {
+          "id": "c68f6765-ea3f-45fc-bfd4-14af1ab40055",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648456800000,
+          "last_edited_time": 1648456800000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "53ad5020-4dc5-48b3-b645-272aa0449336": {
+        "role": "reader",
+        "value": {
+          "id": "53ad5020-4dc5-48b3-b645-272aa0449336",
+          "version": 109,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["After decoding "],
+              ["s%3A", [["c"]]],
+              [", we get "],
+              ["s:", [["c"]]],
+              [", which means this is a signature, a formatting thing"]
+            ]
+          },
+          "created_time": 1648456800000,
+          "last_edited_time": 1648456800000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "30d2136e-58ee-43e4-ad81-68c62290a045": {
+        "role": "reader",
+        "value": {
+          "id": "30d2136e-58ee-43e4-ad81-68c62290a045",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648456560000,
+          "last_edited_time": 1648456800000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ffba9b06-49c3-4d20-bfcd-f66e50164a8a": {
+        "role": "reader",
+        "value": {
+          "id": "ffba9b06-49c3-4d20-bfcd-f66e50164a8a",
+          "version": 128,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["From this, you can see "],
+              ["h30wc0pvSHJCYLVz0tui0Cv6NCCexGV8", [["b"], ["c"]]],
+              [" ", [["b"]]],
+              ["is the id, and the part after the dot is the signature of the id"]
+            ]
+          },
+          "created_time": 1648455420000,
+          "last_edited_time": 1648456620000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "61266a88-ac28-491c-8d65-bc92714ecdd8": {
+        "role": "reader",
+        "value": {
+          "id": "61266a88-ac28-491c-8d65-bc92714ecdd8",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "22bdb363-3771-44b7-9e70-87b55e5dafc1": {
+        "role": "reader",
+        "value": {
+          "id": "22bdb363-3771-44b7-9e70-87b55e5dafc1",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648453320000,
+          "last_edited_time": 1648456680000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3a1622fb-5332-4f5c-81d5-00ed35bd2df8": {
+        "role": "reader",
+        "value": {
+          "id": "3a1622fb-5332-4f5c-81d5-00ed35bd2df8",
+          "version": 38,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Why do we need a signature?"]] },
+          "created_time": 1648456695666,
+          "last_edited_time": 1648457520000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "18bd5629-2f8b-4d2d-9e5d-40925d085cb3": {
+        "role": "reader",
+        "value": {
+          "id": "18bd5629-2f8b-4d2d-9e5d-40925d085cb3",
+          "version": 8,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is to avoid the tampering of the original cookie, so not only a key is enough, we still need to make sure the key is issued by the server, this is similar to other auth methods like JWT"
+              ]
+            ]
+          },
+          "created_time": 1648456680000,
+          "last_edited_time": 1648457580000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "eaa7bb8e-577f-4ba6-a96a-afc57273b8b8": {
+        "role": "reader",
+        "value": {
+          "id": "eaa7bb8e-577f-4ba6-a96a-afc57273b8b8",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648456860000,
+          "last_edited_time": 1648456860000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "346b5967-4193-45c5-b4ef-b4965000e56a": {
+        "role": "reader",
+        "value": {
+          "id": "346b5967-4193-45c5-b4ef-b4965000e56a",
+          "version": 170,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Because a signature is involved, we need a secret on server in order to sign things, we usually set environmental value for that"
+              ]
+            ]
+          },
+          "created_time": 1648456860000,
+          "last_edited_time": 1648457040000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b64dd49a-0b4c-4db3-b2cb-3faaccb3e17a": {
+        "role": "reader",
+        "value": {
+          "id": "b64dd49a-0b4c-4db3-b2cb-3faaccb3e17a",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1b9d63d8-c51e-498d-8557-24bd038ad0cc": {
+        "role": "reader",
+        "value": {
+          "id": "1b9d63d8-c51e-498d-8557-24bd038ad0cc",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648457280000,
+          "last_edited_time": 1648457280000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0f6715a9-01b6-40eb-b417-0bc010844b94": {
+        "role": "reader",
+        "value": {
+          "id": "0f6715a9-01b6-40eb-b417-0bc010844b94",
+          "version": 54,
+          "type": "sub_header",
+          "properties": { "title": [["Why "], ["httpOnly cookies", [["c"]]]] },
+          "created_time": 1648457580000,
+          "last_edited_time": 1648457580000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c786ac9c-783a-4da1-8cb6-512a29645571": {
+        "role": "reader",
+        "value": {
+          "id": "c786ac9c-783a-4da1-8cb6-512a29645571",
+          "version": 236,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["When "],
+              ["httpOnly", [["c"]]],
+              [" is set to "],
+              ["true", [["c"]]],
+              [
+                " in a cookie, it actually prevent the front end from accessing it, this could avoid the cross site scripting attack"
+              ]
+            ]
+          },
+          "created_time": 1648457580000,
+          "last_edited_time": 1648457640000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2fabdbbd-e503-43b7-8d31-eb44eae8e548": {
+        "role": "reader",
+        "value": {
+          "id": "2fabdbbd-e503-43b7-8d31-eb44eae8e548",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "59f0fe09-3892-404a-a4de-2f1c055e72dd": {
+        "role": "reader",
+        "value": {
+          "id": "59f0fe09-3892-404a-a4de-2f1c055e72dd",
+          "version": 17,
+          "type": "divider",
+          "created_time": 1648459620000,
+          "last_edited_time": 1648459620000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "18e0795d-85ea-4295-8eff-9278b7604899": {
+        "role": "reader",
+        "value": {
+          "id": "18e0795d-85ea-4295-8eff-9278b7604899",
+          "version": 127,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["You actually don’t need to worry all of that by yourself, because "],
+              ["express-session", [["c"]]],
+              [" is going to do that for u!"]
+            ]
+          },
+          "created_time": 1648459633830,
+          "last_edited_time": 1648459680000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "90198c9b-c384-4708-87c2-9ff951652b32": {
+        "role": "reader",
+        "value": {
+          "id": "90198c9b-c384-4708-87c2-9ff951652b32",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ffcb671e-4520-4cca-8fb7-915408978ceb": {
+        "role": "reader",
+        "value": {
+          "id": "ffcb671e-4520-4cca-8fb7-915408978ceb",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648457580000,
+          "last_edited_time": 1648457580000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "079d4652-e8d7-4e6c-b413-4fced4f102f7": {
+        "role": "reader",
+        "value": {
+          "id": "079d4652-e8d7-4e6c-b413-4fced4f102f7",
+          "version": 33,
+          "type": "sub_header",
+          "properties": {
+            "title": [
+              ["How to use "],
+              ["express-session", [["b"], ["b"], ["c"]]],
+              [" in your app?", [["b"], ["b"]]]
+            ]
+          },
+          "created_time": 1648457599102,
+          "last_edited_time": 1648458540000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "76a5e4b9-51ec-435e-a005-e06290c27c11": {
+        "role": "reader",
+        "value": {
+          "id": "76a5e4b9-51ec-435e-a005-e06290c27c11",
+          "version": 28,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Middleware Set Up"]] },
+          "created_time": 1648459260000,
+          "last_edited_time": 1648460640000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4930ec0c-4ff3-4f62-a4f7-f648f3065bf5": {
+        "role": "reader",
+        "value": {
+          "id": "4930ec0c-4ff3-4f62-a4f7-f648f3065bf5",
+          "version": 124,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["We only need to install the package using "],
+              ["npm i", [["c"]]],
+              [", then we can include it in our global middleware"]
+            ]
+          },
+          "created_time": 1648458540000,
+          "last_edited_time": 1648462080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "de6f83f7-fde8-4210-bc1f-0026c7166b53": {
+        "role": "reader",
+        "value": {
+          "id": "de6f83f7-fde8-4210-bc1f-0026c7166b53",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648458720000,
+          "last_edited_time": 1648458720000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d9f8d99e-98c5-4da4-b69f-21451c416da3": {
+        "role": "reader",
+        "value": {
+          "id": "d9f8d99e-98c5-4da4-b69f-21451c416da3",
+          "version": 294,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "const session = require('express-session');\n\napp.use(session({\n  secret: process.env.SESSION_SECRET, // used to sign sessionID\n  name: 'sid', // optional, the key of the cookie\n  saveUninitialized: false,\n  resave: true,\n})\n\n// then the other routing"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648458720000,
+          "last_edited_time": 1648458900000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4cce74c5-0934-43f5-b3c7-09f16c354195": {
+        "role": "reader",
+        "value": {
+          "id": "4cce74c5-0934-43f5-b3c7-09f16c354195",
+          "version": 139,
+          "type": "text",
+          "created_time": 1648460640000,
+          "last_edited_time": 1648460640000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8997263f-cdf7-4b9d-877b-cf94373378d5": {
+        "role": "reader",
+        "value": {
+          "id": "8997263f-cdf7-4b9d-877b-cf94373378d5",
+          "version": 5,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["The confusing part is the "],
+              ["saveUnintialized", [["c"]]],
+              [" and "],
+              ["resave", [["c"]]],
+              [", other parameter are pretty self-explanatory"]
+            ]
+          },
+          "created_time": 1648456860000,
+          "last_edited_time": 1648461540000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b7cbb94c-6b3a-4a43-b2b6-493d5888c17a": {
+        "role": "reader",
+        "value": {
+          "id": "b7cbb94c-6b3a-4a43-b2b6-493d5888c17a",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648459080000,
+          "last_edited_time": 1648459080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3997287f-5a6d-4601-8c36-e5ce40704911": {
+        "role": "reader",
+        "value": {
+          "id": "3997287f-5a6d-4601-8c36-e5ce40704911",
+          "version": 37,
+          "type": "text",
+          "properties": { "title": [["You can refer to this answer: "]] },
+          "created_time": 1648459020000,
+          "last_edited_time": 1648459080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8ea7ffda-dc5f-496c-b0ff-1142da78940d": {
+        "role": "reader",
+        "value": {
+          "id": "8ea7ffda-dc5f-496c-b0ff-1142da78940d",
+          "version": 8,
+          "type": "bookmark",
+          "properties": {
+            "link": [["https://stackoverflow.com/a/40396102"]],
+            "title": [["When to use saveUninitialized and resave in express-session"]],
+            "description": [
+              [
+                "Let's assume that sessions are enabled globally (for all requests). When a client makes an HTTP request, and that request doesn't contain a session cookie, a new session will be created by express-session."
+              ]
+            ]
+          },
+          "format": {
+            "bookmark_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+            "bookmark_cover": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+          },
+          "created_time": 1648459080000,
+          "last_edited_time": 1648459080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e2cc5b56-bad1-480b-8307-dee5f7ca2b13": {
+        "role": "reader",
+        "value": {
+          "id": "e2cc5b56-bad1-480b-8307-dee5f7ca2b13",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648459080000,
+          "last_edited_time": 1648459080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b2f47bd3-e01c-475b-ad5b-140b5b7d314a": {
+        "role": "reader",
+        "value": {
+          "id": "b2f47bd3-e01c-475b-ad5b-140b5b7d314a",
+          "version": 339,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Simply put, "],
+              ["saveUninitialized", [["c"]]],
+              [
+                " set to false could avoid a lot of unused empty object being stored, because if it set to true, all the request will create a session store if it’s still uninitialized"
+              ]
+            ]
+          },
+          "created_time": 1648459080000,
+          "last_edited_time": 1648459500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "508b7d4c-55d9-40b7-b89f-94f038ab3b78": {
+        "role": "reader",
+        "value": {
+          "id": "508b7d4c-55d9-40b7-b89f-94f038ab3b78",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648459200000,
+          "last_edited_time": 1648459200000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "00bf8cae-cff9-4c28-851d-89f1f3b7e944": {
+        "role": "reader",
+        "value": {
+          "id": "00bf8cae-cff9-4c28-851d-89f1f3b7e944",
+          "version": 244,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["And "],
+              ["resave", [["c"]]],
+              [" set to true will be able to rewrite the "],
+              ["req.session.cookie", [["c"]]],
+              [
+                ", this will allow the scenerio of two browser logged in together, one request log out will also log out the other session"
+              ]
+            ]
+          },
+          "created_time": 1648459200000,
+          "last_edited_time": 1648459860000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ea3c29ad-d5c5-4f93-94e4-f995a65f3401": {
+        "role": "reader",
+        "value": {
+          "id": "ea3c29ad-d5c5-4f93-94e4-f995a65f3401",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648459500000,
+          "last_edited_time": 1648459500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4129145a-bb0d-47a1-96bf-363665d87dd6": {
+        "role": "reader",
+        "value": {
+          "id": "4129145a-bb0d-47a1-96bf-363665d87dd6",
+          "version": 135,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Also we have "],
+              ["rolling", [["c"]]],
+              [", this will allow the session middleware reset a new cookie when it gets expired"]
+            ]
+          },
+          "created_time": 1648459260000,
+          "last_edited_time": 1648459560000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3c08a341-c177-48f7-917e-694ba8dae726": {
+        "role": "reader",
+        "value": {
+          "id": "3c08a341-c177-48f7-917e-694ba8dae726",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648461540000,
+          "last_edited_time": 1648461540000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a9eca75b-29fa-4e0c-a76e-efbdc0ebacfb": {
+        "role": "reader",
+        "value": {
+          "id": "a9eca75b-29fa-4e0c-a76e-efbdc0ebacfb",
+          "version": 89,
+          "type": "text",
+          "properties": {
+            "title": [["Then we can access the session data with "], ["req.session", [["c"]]]]
+          },
+          "created_time": 1648461540000,
+          "last_edited_time": 1648461540000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4381b42c-286d-4cb9-a068-0208e866a2db": {
+        "role": "reader",
+        "value": {
+          "id": "4381b42c-286d-4cb9-a068-0208e866a2db",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648461300000,
+          "last_edited_time": 1648461300000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c4b25f14-dd47-41ad-91b3-a715a2e875ca": {
+        "role": "reader",
+        "value": {
+          "id": "c4b25f14-dd47-41ad-91b3-a715a2e875ca",
+          "version": 210,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The default session would be using memory, to prevent session sticky when doing replication of backend, we can choose to use Redis to as a single store of truth, but we will not cover this"
+              ]
+            ]
+          },
+          "created_time": 1648461300000,
+          "last_edited_time": 1648461600000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8ac6ef95-c46d-4512-a51a-e667d65e2900": {
+        "role": "reader",
+        "value": {
+          "id": "8ac6ef95-c46d-4512-a51a-e667d65e2900",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648460880000,
+          "last_edited_time": 1648460880000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "96a990a5-383d-4dc0-b37f-5842d90887dc": {
+        "role": "reader",
+        "value": {
+          "id": "96a990a5-383d-4dc0-b37f-5842d90887dc",
+          "version": 15,
+          "type": "divider",
+          "created_time": 1648460640000,
+          "last_edited_time": 1648460640000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dd24b97e-cb5a-4ef1-811f-dce2ad94766c": {
+        "role": "reader",
+        "value": {
+          "id": "dd24b97e-cb5a-4ef1-811f-dce2ad94766c",
+          "version": 33,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Log-in Logic"]] },
+          "created_time": 1648460676191,
+          "last_edited_time": 1648461060000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b5e7c442-8d15-40da-93df-2954c139a4d8": {
+        "role": "reader",
+        "value": {
+          "id": "b5e7c442-8d15-40da-93df-2954c139a4d8",
+          "version": 252,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["In the route of login, we can modify the state of "],
+              ["req.session", [["c"]]],
+              [
+                " to allow the session store to write things, note that it’s better not to put the entire user in it, as the state of the user could be modified"
+              ]
+            ]
+          },
+          "created_time": 1648461060000,
+          "last_edited_time": 1648461960000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "97b921c6-16d7-4f11-b408-2754e2746e99": {
+        "role": "reader",
+        "value": {
+          "id": "97b921c6-16d7-4f11-b408-2754e2746e99",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648461120000,
+          "last_edited_time": 1648461120000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "074c9634-a2a1-49b1-af24-bb1ce504054a": {
+        "role": "reader",
+        "value": {
+          "id": "074c9634-a2a1-49b1-af24-bb1ce504054a",
+          "version": 281,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "app.post('login', (req, res) => {\n  // fetch the username and password\n\tconst user = db.find(...)\n\n\t// find user in db\n\n\t// check password correct\n\n  req.session.userId = user.id // we would not put the entire user\n\t\n\treturn ...\n}"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648461120000,
+          "last_edited_time": 1648461900000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5d5992d1-a99f-4755-b9f0-830163c02583": {
+        "role": "reader",
+        "value": {
+          "id": "5d5992d1-a99f-4755-b9f0-830163c02583",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648461420000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8664789e-3da8-4664-a226-37f881ac4606": {
+        "role": "reader",
+        "value": {
+          "id": "8664789e-3da8-4664-a226-37f881ac4606",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648459680000,
+          "last_edited_time": 1648461420000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7a90767d-4e22-43d6-9f87-d6e67d062e10": {
+        "role": "reader",
+        "value": {
+          "id": "7a90767d-4e22-43d6-9f87-d6e67d062e10",
+          "version": 31,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Auth Middleware"]] },
+          "created_time": 1648461459950,
+          "last_edited_time": 1648461540000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "11e5873a-84c8-4ad0-8bcc-2fd79e5cc56d": {
+        "role": "reader",
+        "value": {
+          "id": "11e5873a-84c8-4ad0-8bcc-2fd79e5cc56d",
+          "version": 347,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "We can write another middleware in front of the route that needs to be authenticated (is the user logged in), we can even write another middleware to do authorization (does this user have access to the data?)"
+              ]
+            ]
+          },
+          "created_time": 1648461660000,
+          "last_edited_time": 1648461840000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "86d63a0b-4b4c-4236-bbc0-7d35b8c72672": {
+        "role": "reader",
+        "value": {
+          "id": "86d63a0b-4b4c-4236-bbc0-7d35b8c72672",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648461840000,
+          "last_edited_time": 1648461840000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ec0a45cd-ef46-430a-807a-88fc0d9d932a": {
+        "role": "reader",
+        "value": {
+          "id": "ec0a45cd-ef46-430a-807a-88fc0d9d932a",
+          "version": 102,
+          "type": "text",
+          "properties": { "title": [["Why two layers? this is to avoid the coupling"]] },
+          "created_time": 1648461840000,
+          "last_edited_time": 1648461960000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "28a6ab99-340f-4a9a-8043-7d998635818a": {
+        "role": "reader",
+        "value": {
+          "id": "28a6ab99-340f-4a9a-8043-7d998635818a",
+          "version": 2,
+          "type": "text",
+          "created_time": 1648461660000,
+          "last_edited_time": 1648461660000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e44ff1bb-8907-4a97-abb1-c77603823e41": {
+        "role": "reader",
+        "value": {
+          "id": "e44ff1bb-8907-4a97-abb1-c77603823e41",
+          "version": 46,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "const auth = (req, res, next) => {\n  if (req.session.userId) {\n    console.log('authenticated')\n    next()\n\t} else {\n    console.log('not authenticated')\n    return res.redirect('/')\n  }\n}\n\napp.get('/welcome', auth, (req, res) => {\n    const userName = req.session.user\n    return res.render('welcome', { message: `Welcome back, ${userName}!`\n  })\n})"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648461540000,
+          "last_edited_time": 1648461900000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a9f42dfa-97e2-48e5-8119-3b2588c98901": {
+        "role": "reader",
+        "value": {
+          "id": "a9f42dfa-97e2-48e5-8119-3b2588c98901",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648462020000,
+          "last_edited_time": 1648462020000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5ec2a486-8719-438c-bbb3-87edaa883918": {
+        "role": "reader",
+        "value": {
+          "id": "5ec2a486-8719-438c-bbb3-87edaa883918",
+          "version": 95,
+          "type": "divider",
+          "created_time": 1648462020000,
+          "last_edited_time": 1648462080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2efac40d-0ec3-42ab-9e3b-1ba22113de8f": {
+        "role": "reader",
+        "value": {
+          "id": "2efac40d-0ec3-42ab-9e3b-1ba22113de8f",
+          "version": 40,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Log-out Logic"]] },
+          "created_time": 1648462080000,
+          "last_edited_time": 1648462080000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e1234609-cd4e-44b0-8464-d07f74f7393f": {
+        "role": "reader",
+        "value": {
+          "id": "e1234609-cd4e-44b0-8464-d07f74f7393f",
+          "version": 119,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["When log out endpoint is triggered, you only need to call "],
+              ["req.session.destroy()", [["c"]]],
+              [" to destroy it"]
+            ]
+          },
+          "created_time": 1648462080000,
+          "last_edited_time": 1648462140000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0ad8cec7-28e6-4611-b576-736475584739": {
+        "role": "reader",
+        "value": {
+          "id": "0ad8cec7-28e6-4611-b576-736475584739",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648462140000,
+          "last_edited_time": 1648462140000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7e9bb994-27d4-4cea-9746-95cef25941e9": {
+        "role": "reader",
+        "value": {
+          "id": "7e9bb994-27d4-4cea-9746-95cef25941e9",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648462140000,
+          "last_edited_time": 1648462140000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "52a2f848-ff58-4f90-ba1f-fb4cfe2a6dd9": {
+        "role": "reader",
+        "value": {
+          "id": "52a2f848-ff58-4f90-ba1f-fb4cfe2a6dd9",
+          "version": 27,
+          "type": "sub_header",
+          "properties": { "title": [["Summary"]] },
+          "created_time": 1648462260000,
+          "last_edited_time": 1648462260000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "adf7ee99-23b3-4242-8a7c-0339cc6c1400": {
+        "role": "reader",
+        "value": {
+          "id": "adf7ee99-23b3-4242-8a7c-0339cc6c1400",
+          "version": 362,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "So, that’s a wrap, maybe I will also cover JWT in the future, but I don’t really find JWT more appealing to me as it shifts more responsibility onto the front end which is quite annoying so it will never be simple to anyone"
+              ]
+            ]
+          },
+          "created_time": 1648462260000,
+          "last_edited_time": 1648462500000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "88963183-ced5-4151-805a-bf8f5ff6d77b": {
+        "role": "reader",
+        "value": {
+          "id": "88963183-ced5-4151-805a-bf8f5ff6d77b",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648462260000,
+          "last_edited_time": 1648462260000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "32dfaf96-0df9-4696-8b24-e4e4e7c1f61f": {
+        "role": "reader",
+        "value": {
+          "id": "32dfaf96-0df9-4696-8b24-e4e4e7c1f61f",
+          "version": 445,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is my first attempt try to write a simple explanation article about dev and I try really hard to divide the information in chunks and sections (and I try to avoid writing multiple sentences in a praragraph)"
+              ]
+            ]
+          },
+          "created_time": 1648462260000,
+          "last_edited_time": 1648554480000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "86411d40-3be4-4ca2-9de9-3cec70bfd152": {
+        "role": "reader",
+        "value": {
+          "id": "86411d40-3be4-4ca2-9de9-3cec70bfd152",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648564560000,
+          "last_edited_time": 1648564560000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dc3ef3bb-2e4f-4ff8-9057-1c42df0fc2b3": {
+        "role": "reader",
+        "value": {
+          "id": "dc3ef3bb-2e4f-4ff8-9057-1c42df0fc2b3",
+          "version": 28,
+          "type": "text",
+          "properties": { "title": [["Hope you will like it!"]] },
+          "created_time": 1648564560000,
+          "last_edited_time": 1648564560000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9678d0a6-5ea8-4e37-ae41-47c6b8e42bd4": {
+        "role": "reader",
+        "value": {
+          "id": "9678d0a6-5ea8-4e37-ae41-47c6b8e42bd4",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648552860000,
+          "last_edited_time": 1648552860000,
+          "parent_id": "1593a4a1-f9b4-4436-b5a5-716985e26914",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}

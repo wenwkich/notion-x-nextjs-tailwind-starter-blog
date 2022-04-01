@@ -1,0 +1,2315 @@
+{
+  "object": "page",
+  "id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+  "created_time": "2022-03-30T06:26:00.000Z",
+  "last_edited_time": "2022-03-31T09:48:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "name": "web3", "color": "gray" },
+        { "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f", "name": "cryptography", "color": "green" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-31T09:48:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-30T06:26:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "91b9d5aa442345dcad096b4e21764aa3-Simple-Not-Naive-Mental-Model-to-Private-Key-for-the-Non-Tech"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Simple-Not-Naive Mental Model to Private Key for the Non-Tech",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Simple-Not-Naive Mental Model to Private Key for the Non-Tech",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Simple-Not-Naive-Mental-Model-to-Private-Key-for-the-Non-Tech-91b9d5aa442345dcad096b4e21764aa3",
+  "recordMap": {
+    "block": {
+      "91b9d5aa-4423-45dc-ad09-6b4e21764aa3": {
+        "role": "reader",
+        "value": {
+          "id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "version": 620,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["web3,cryptography"]],
+            "title": [["Simple-Not-Naive Mental Model to Private Key for the Non-Tech"]]
+          },
+          "content": [
+            "144bd35c-e6cb-442b-abd1-b08f856804c1",
+            "1e88bf05-80f5-4d0a-a7fa-beff2c2d1660",
+            "8cebbbbc-f0d5-4ec9-ba99-f6d15b0cdc30",
+            "11dea0ac-fc7c-47f8-83e7-2bfa7f1e27f3",
+            "527acd79-8858-43fc-a018-8a6e0e52beaa",
+            "f9a78bfb-d1ad-4dac-b471-144a5a2c2997",
+            "5f417ace-9351-46d6-a315-ee6f3979645b",
+            "696eb319-3358-46bd-8d8c-950cd0883fcb",
+            "2cf1c42e-6154-4b65-a301-a244a57b5f06",
+            "caa7128e-c830-4fb2-9833-a21f6585eb2c",
+            "8a254097-e75d-458a-82ae-28e8874fbd97",
+            "7bbb2a39-6970-4426-a4ca-745f715e8748",
+            "e297b011-1bc5-440b-8b83-dc86d59791bd",
+            "0d1f523a-923d-4e03-9c7b-0fda6a6e4b83",
+            "04b46c42-b7f5-43db-a5d3-b881857658ea",
+            "ad9e36ca-9d07-47a0-becc-daca18f90e4e",
+            "2a6e58a2-eccd-4da0-91f6-506816dc729e",
+            "d59cf279-6bf3-42fb-a320-121b3d044b50",
+            "76a7d030-ef18-4ffe-a3a3-67d6da5404eb",
+            "7470a5cd-35d8-487b-b01f-871c6b150d55",
+            "e87ed645-9be3-4e4b-ae1a-909ad37f4d37",
+            "70735caa-9e2b-457a-a41e-c0a061238902",
+            "ddb94a3f-557e-4a78-a419-998d9d13d8a1",
+            "27a74f20-3003-4e9a-88df-43006ee48da7",
+            "ab035cb0-37d9-4e8e-8dfc-bdefb1ee2ac1",
+            "e369affc-a755-4030-a758-c048ee64022c",
+            "ac0f61b3-21a2-4f6d-b5aa-58f8b22d24f2",
+            "0fe30a60-919c-4164-a7b4-9cb315a6edc7",
+            "9ec71f48-f257-4537-a23c-08e2944ed0f6",
+            "30565b54-2e23-477f-9222-ad3f0b8a43ee",
+            "35f2f180-2f38-48f8-8c1c-a3d5c9f6f32c",
+            "b4a96874-d18a-4beb-85fd-79d601422516",
+            "0b5523b4-b68d-4935-b16c-2226fb4c66c1",
+            "b694215c-4178-4c6a-a182-e9421152157e",
+            "fc60dd60-ff45-41b7-aec2-28fb68670e97",
+            "4d434384-d5e9-4627-b312-606888918015",
+            "49baf0b4-7de4-4f1b-be57-14779685e2ee",
+            "c9a50bf4-e89d-489b-8927-70542567e6f7",
+            "cb61a6f4-ebf9-471b-a116-bb7ae2fc55b4",
+            "da9749ce-1430-4f22-8596-8952ebbdcf13",
+            "5cabf8d3-5c8b-49a9-a5c0-f85cf0c60f5d",
+            "ee5b2e70-6c52-4dc6-b2e6-e16ceaa7398c",
+            "709baea4-94b2-46f3-8c35-e492ee8e02ad",
+            "cccb731e-ac95-48ea-83f4-62922e0da905",
+            "2cb532fe-f5ec-46b9-b3de-8f592385fa48",
+            "4ee78570-a30d-4d6f-89f0-538772c4900e",
+            "2093621b-fe3a-48d0-9ae4-a30eb9c41e65",
+            "d3fbe21c-5295-4a26-910e-5f904b5a8605",
+            "de36b614-2d68-4c7f-9287-86ee32485f1a",
+            "082b1c90-0b84-4796-9163-30061ff773ff",
+            "727dd8ee-bc27-4152-a975-5282c5cc4469",
+            "53ae35fc-9138-4c3e-89ac-a403ecb4998c",
+            "7a21b2e4-0f7a-4c3c-b309-8471c43c9462",
+            "9178c3d4-7e99-4159-ab22-69592d30e8d1",
+            "b7954e38-abe8-4995-b668-331b2ab0fe9d",
+            "6799074b-8112-41f1-a917-dc2bcc76b29c",
+            "6784d44f-94f2-4852-a164-3d87a83e9b44",
+            "ea70ef6e-a11b-46ab-a577-e0b001855cec",
+            "8fa7ca22-cc89-42c9-935c-df8e0d30585f",
+            "06c38dde-16cd-4f99-9df6-6217480db7b2",
+            "ab65a397-3d5d-446c-b4b1-aac21b2bc829",
+            "c1cd3232-b9cb-4d4a-b2b5-be1fd44378fe",
+            "370a0be9-a354-4533-9008-68097808dd78",
+            "78d9181e-0307-4327-ae02-ef0b884be852",
+            "7c1db8e1-6f3e-4e6d-994d-6798b62d2cb7",
+            "c698bb5a-03ad-4f05-8b87-e37b464a5afc",
+            "2f74bab7-56e3-4b9a-a109-5c9e0f02ae2f",
+            "7de64733-9415-4f0a-8553-5b9642090340",
+            "063d6de3-9dc8-4d2a-bd6d-23efc5b603c2",
+            "ec7b4b76-fa39-4e85-8451-e081d14d4657",
+            "ac4d06d3-6854-438f-9c85-1fea535bbcd7",
+            "0bf0f88e-14d4-429e-bcc9-8cdcd97de46c",
+            "e2b946ac-9404-4f24-81b3-11faf2479ab2",
+            "662cd70d-5890-4b0d-9fbe-48eb773f7976",
+            "3f3b23e4-35f8-4eae-971d-980d8db15614",
+            "638cede0-31a4-4103-96c8-592e5ffaed4c",
+            "c850b53a-0529-40b8-90be-7114af05d66e",
+            "4d604915-3749-48d2-a06a-1bf540d123ee",
+            "ca65b4a8-807f-42b5-aacf-486cd56f8883",
+            "ae7de3e3-0f73-4dfd-af85-0bca0f6fcf0c",
+            "a3f45f71-545b-46b2-80ea-facb0972b1d0",
+            "10a7c33e-522e-4024-989e-64bdb687d49d",
+            "513b6ff3-5e21-4b3d-8200-e73c325d9fbb",
+            "b392368c-269d-4472-aadd-ab18dd35e7b8"
+          ],
+          "created_time": 1648621560000,
+          "last_edited_time": 1648720080000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "144bd35c-e6cb-442b-abd1-b08f856804c1": {
+        "role": "reader",
+        "value": {
+          "id": "144bd35c-e6cb-442b-abd1-b08f856804c1",
+          "version": 355,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "IMO, the most important thing about web3 users to learn is private key, this article serves a simple but not naive explanation (with my understanding) to private key for the non-tech people"
+              ]
+            ]
+          },
+          "created_time": 1648623540000,
+          "last_edited_time": 1648690200000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1e88bf05-80f5-4d0a-a7fa-beff2c2d1660": {
+        "role": "reader",
+        "value": {
+          "id": "1e88bf05-80f5-4d0a-a7fa-beff2c2d1660",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648624500000,
+          "last_edited_time": 1648624500000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8cebbbbc-f0d5-4ec9-ba99-f6d15b0cdc30": {
+        "role": "reader",
+        "value": {
+          "id": "8cebbbbc-f0d5-4ec9-ba99-f6d15b0cdc30",
+          "version": 218,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Many people understands cryptocurrency as they “encrypt” your “bitcoins”, and the private key is the password, which is not entirely true"
+              ]
+            ]
+          },
+          "created_time": 1648624020000,
+          "last_edited_time": 1648636560000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "11dea0ac-fc7c-47f8-83e7-2bfa7f1e27f3": {
+        "role": "reader",
+        "value": {
+          "id": "11dea0ac-fc7c-47f8-83e7-2bfa7f1e27f3",
+          "version": 14,
+          "type": "text",
+          "created_time": 1648636560000,
+          "last_edited_time": 1648636560000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "527acd79-8858-43fc-a018-8a6e0e52beaa": {
+        "role": "reader",
+        "value": {
+          "id": "527acd79-8858-43fc-a018-8a6e0e52beaa",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648636560000,
+          "last_edited_time": 1648636560000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f9a78bfb-d1ad-4dac-b471-144a5a2c2997": {
+        "role": "reader",
+        "value": {
+          "id": "f9a78bfb-d1ad-4dac-b471-144a5a2c2997",
+          "version": 45,
+          "type": "sub_header",
+          "properties": { "title": [["The similarity"]] },
+          "created_time": 1648636560000,
+          "last_edited_time": 1648636620000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5f417ace-9351-46d6-a315-ee6f3979645b": {
+        "role": "reader",
+        "value": {
+          "id": "5f417ace-9351-46d6-a315-ee6f3979645b",
+          "version": 104,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "They both give control and access to your account and needs to be kept confidential"
+              ]
+            ]
+          },
+          "created_time": 1648636620000,
+          "last_edited_time": 1648640700000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "696eb319-3358-46bd-8d8c-950cd0883fcb": {
+        "role": "reader",
+        "value": {
+          "id": "696eb319-3358-46bd-8d8c-950cd0883fcb",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648636440000,
+          "last_edited_time": 1648636560000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2cf1c42e-6154-4b65-a301-a244a57b5f06": {
+        "role": "reader",
+        "value": {
+          "id": "2cf1c42e-6154-4b65-a301-a244a57b5f06",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648636440000,
+          "last_edited_time": 1648636440000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "caa7128e-c830-4fb2-9833-a21f6585eb2c": {
+        "role": "reader",
+        "value": {
+          "id": "caa7128e-c830-4fb2-9833-a21f6585eb2c",
+          "version": 31,
+          "type": "sub_header",
+          "properties": { "title": [["The difference"]] },
+          "created_time": 1648636740000,
+          "last_edited_time": 1648636740000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8a254097-e75d-458a-82ae-28e8874fbd97": {
+        "role": "reader",
+        "value": {
+          "id": "8a254097-e75d-458a-82ae-28e8874fbd97",
+          "version": 79,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "There are two main caveats about private key management, that key owners should protect their key from being "
+              ],
+              ["lost,", [["i"]]],
+              [" as well as being "],
+              ["stolen", [["i"]]]
+            ]
+          },
+          "created_time": 1648637340000,
+          "last_edited_time": 1648643700000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7bbb2a39-6970-4426-a4ca-745f715e8748": {
+        "role": "reader",
+        "value": {
+          "id": "7bbb2a39-6970-4426-a4ca-745f715e8748",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648637340000,
+          "last_edited_time": 1648637340000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e297b011-1bc5-440b-8b83-dc86d59791bd": {
+        "role": "reader",
+        "value": {
+          "id": "e297b011-1bc5-440b-8b83-dc86d59791bd",
+          "version": 9,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Passwords can be always be reset by the centralized service provider, but this is not possible for private keys to be recovered if you just lost them"
+              ]
+            ]
+          },
+          "created_time": 1648636479576,
+          "last_edited_time": 1648645620000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0d1f523a-923d-4e03-9c7b-0fda6a6e4b83": {
+        "role": "reader",
+        "value": {
+          "id": "0d1f523a-923d-4e03-9c7b-0fda6a6e4b83",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648624860000,
+          "last_edited_time": 1648624860000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "04b46c42-b7f5-43db-a5d3-b881857658ea": {
+        "role": "reader",
+        "value": {
+          "id": "04b46c42-b7f5-43db-a5d3-b881857658ea",
+          "version": 236,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Same with password exploit, it can be reset as well if the service provider allows you with a centralized control, but not with private key, if a private key is stolen, you have to abandon it"
+              ]
+            ]
+          },
+          "created_time": 1648624860000,
+          "last_edited_time": 1648645620000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ad9e36ca-9d07-47a0-becc-daca18f90e4e": {
+        "role": "reader",
+        "value": {
+          "id": "ad9e36ca-9d07-47a0-becc-daca18f90e4e",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648640760000,
+          "last_edited_time": 1648640760000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2a6e58a2-eccd-4da0-91f6-506816dc729e": {
+        "role": "reader",
+        "value": {
+          "id": "2a6e58a2-eccd-4da0-91f6-506816dc729e",
+          "version": 83,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "With normal password infrastructure, your trust is given to the centralized authority, but with web3, devs can do nothing when you don’t keep your keys well"
+              ]
+            ]
+          },
+          "format": {
+            "copied_from_pointer": {
+              "id": "ba42b94d-eab3-4dee-84f0-6aa376b7bf34",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648640782807,
+          "last_edited_time": 1648640820000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "ba42b94d-eab3-4dee-84f0-6aa376b7bf34",
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d59cf279-6bf3-42fb-a320-121b3d044b50": {
+        "role": "reader",
+        "value": {
+          "id": "d59cf279-6bf3-42fb-a320-121b3d044b50",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648640760000,
+          "last_edited_time": 1648640760000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "76a7d030-ef18-4ffe-a3a3-67d6da5404eb": {
+        "role": "reader",
+        "value": {
+          "id": "76a7d030-ef18-4ffe-a3a3-67d6da5404eb",
+          "version": 243,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "With a private key, you are given more responsibility to your web3 identity more than any web2 users. Everybody in web3 needs to have more common sense about what exactly does private key do"
+              ]
+            ]
+          },
+          "created_time": 1648636320000,
+          "last_edited_time": 1648640760000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7470a5cd-35d8-487b-b01f-871c6b150d55": {
+        "role": "reader",
+        "value": {
+          "id": "7470a5cd-35d8-487b-b01f-871c6b150d55",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648624860000,
+          "last_edited_time": 1648624860000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e87ed645-9be3-4e4b-ae1a-909ad37f4d37": {
+        "role": "reader",
+        "value": {
+          "id": "e87ed645-9be3-4e4b-ae1a-909ad37f4d37",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648624860000,
+          "last_edited_time": 1648624860000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "70735caa-9e2b-457a-a41e-c0a061238902": {
+        "role": "reader",
+        "value": {
+          "id": "70735caa-9e2b-457a-a41e-c0a061238902",
+          "version": 60,
+          "type": "sub_header",
+          "properties": {
+            "title": [["The heart of Cryptography: one-way function as a black box"]]
+          },
+          "created_time": 1648624908523,
+          "last_edited_time": 1648641960000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ddb94a3f-557e-4a78-a419-998d9d13d8a1": {
+        "role": "reader",
+        "value": {
+          "id": "ddb94a3f-557e-4a78-a419-998d9d13d8a1",
+          "version": 166,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The premise of understanding the idea of asymmetric keys is to understand one-way function"
+              ]
+            ]
+          },
+          "created_time": 1648624140000,
+          "last_edited_time": 1648624260000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "27a74f20-3003-4e9a-88df-43006ee48da7": {
+        "role": "reader",
+        "value": {
+          "id": "27a74f20-3003-4e9a-88df-43006ee48da7",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648624260000,
+          "last_edited_time": 1648624260000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ab035cb0-37d9-4e8e-8dfc-bdefb1ee2ac1": {
+        "role": "reader",
+        "value": {
+          "id": "ab035cb0-37d9-4e8e-8dfc-bdefb1ee2ac1",
+          "version": 265,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["How I usually see a function is a black box of some sort of mapping ("],
+              ["x → f(x)", [["c"]]],
+              [
+                "), you don’t really have to drill down the detail in a function, but you really have to understand how it behaves"
+              ]
+            ]
+          },
+          "created_time": 1648624260000,
+          "last_edited_time": 1648642620000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e369affc-a755-4030-a758-c048ee64022c": {
+        "role": "reader",
+        "value": {
+          "id": "e369affc-a755-4030-a758-c048ee64022c",
+          "version": 17,
+          "type": "text",
+          "created_time": 1648713300000,
+          "last_edited_time": 1648713360000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ac0f61b3-21a2-4f6d-b5aa-58f8b22d24f2": {
+        "role": "reader",
+        "value": {
+          "id": "ac0f61b3-21a2-4f6d-b5aa-58f8b22d24f2",
+          "version": 9,
+          "type": "image",
+          "properties": {
+            "size": [["84.0KB"]],
+            "title": [["Untitled"]],
+            "source": [
+              [
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e48e7fa9-4fad-42dd-b1cf-227181befdfd/Untitled.png"
+              ]
+            ]
+          },
+          "format": {
+            "block_width": 1123,
+            "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e48e7fa9-4fad-42dd-b1cf-227181befdfd/Untitled.png",
+            "block_full_width": false,
+            "block_page_width": true,
+            "block_aspect_ratio": 0.7070347284060552,
+            "block_preserve_scale": true
+          },
+          "created_time": 1648720080000,
+          "last_edited_time": 1648720080000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "file_ids": ["e48e7fa9-4fad-42dd-b1cf-227181befdfd"],
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0fe30a60-919c-4164-a7b4-9cb315a6edc7": {
+        "role": "reader",
+        "value": {
+          "id": "0fe30a60-919c-4164-a7b4-9cb315a6edc7",
+          "version": 291,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This picture shows the relationship of "],
+              ["x", [["c"]]],
+              [" and "],
+              ["f(x)", [["c"]]],
+              [
+                " as a one-way function, from input to answer is very easy to compute, but from answer to its input is really hard to get, that’s one-way function’s behavior"
+              ]
+            ]
+          },
+          "created_time": 1648624320000,
+          "last_edited_time": 1648643820000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9ec71f48-f257-4537-a23c-08e2944ed0f6": {
+        "role": "reader",
+        "value": {
+          "id": "9ec71f48-f257-4537-a23c-08e2944ed0f6",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648640940000,
+          "last_edited_time": 1648640940000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "30565b54-2e23-477f-9222-ad3f0b8a43ee": {
+        "role": "reader",
+        "value": {
+          "id": "30565b54-2e23-477f-9222-ad3f0b8a43ee",
+          "version": 231,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "A lot of functions in cryptographic world is one-way, such as hash functions, you can compute a hash given a word is given, but you cannot reverse the process"
+              ]
+            ]
+          },
+          "created_time": 1648640940000,
+          "last_edited_time": 1648641000000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "35f2f180-2f38-48f8-8c1c-a3d5c9f6f32c": {
+        "role": "reader",
+        "value": {
+          "id": "35f2f180-2f38-48f8-8c1c-a3d5c9f6f32c",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648641120000,
+          "last_edited_time": 1648641120000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b4a96874-d18a-4beb-85fd-79d601422516": {
+        "role": "reader",
+        "value": {
+          "id": "b4a96874-d18a-4beb-85fd-79d601422516",
+          "version": 330,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Also note that other basic properties of such functions are deterministic and non-corrlated (same input will generate same outcome and modification to input will generate another outcome), this property usually utilized for file hash to examine its integrity (because when file content changes, the hash will change too)"
+              ]
+            ]
+          },
+          "format": {
+            "copied_from_pointer": {
+              "id": "76d45e12-5abc-49c3-a6cb-b80863c9702e",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648641151400,
+          "last_edited_time": 1648642620000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "76d45e12-5abc-49c3-a6cb-b80863c9702e",
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0b5523b4-b68d-4935-b16c-2226fb4c66c1": {
+        "role": "reader",
+        "value": {
+          "id": "0b5523b4-b68d-4935-b16c-2226fb4c66c1",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648637400000,
+          "last_edited_time": 1648637400000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b694215c-4178-4c6a-a182-e9421152157e": {
+        "role": "reader",
+        "value": {
+          "id": "b694215c-4178-4c6a-a182-e9421152157e",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648637400000,
+          "last_edited_time": 1648637400000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fc60dd60-ff45-41b7-aec2-28fb68670e97": {
+        "role": "reader",
+        "value": {
+          "id": "fc60dd60-ff45-41b7-aec2-28fb68670e97",
+          "version": 235,
+          "type": "sub_header",
+          "properties": { "title": [["Generation of Public and Private Key"]] },
+          "created_time": 1648637400000,
+          "last_edited_time": 1648639860000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4d434384-d5e9-4627-b312-606888918015": {
+        "role": "reader",
+        "value": {
+          "id": "4d434384-d5e9-4627-b312-606888918015",
+          "version": 488,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Private key is very simple to understand, it’s just a random number from "],
+              ["1", [["c"]]],
+              [" to "],
+              ["2^256", [["c"]]],
+              [
+                " (which is very large), one must be using a safe algorithm to generate a random number"
+              ]
+            ]
+          },
+          "created_time": 1648639860000,
+          "last_edited_time": 1648640640000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "49baf0b4-7de4-4f1b-be57-14779685e2ee": {
+        "role": "reader",
+        "value": {
+          "id": "49baf0b4-7de4-4f1b-be57-14779685e2ee",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648640640000,
+          "last_edited_time": 1648640640000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c9a50bf4-e89d-489b-8927-70542567e6f7": {
+        "role": "reader",
+        "value": {
+          "id": "c9a50bf4-e89d-489b-8927-70542567e6f7",
+          "version": 18,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This might surprise you, most random function in the programming language is not completely random, so we need an algo that is completely unpredictable "
+              ]
+            ]
+          },
+          "created_time": 1648640640000,
+          "last_edited_time": 1648640640000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cb61a6f4-ebf9-471b-a116-bb7ae2fc55b4": {
+        "role": "reader",
+        "value": {
+          "id": "cb61a6f4-ebf9-471b-a116-bb7ae2fc55b4",
+          "version": 10,
+          "type": "text",
+          "created_time": 1648713600000,
+          "last_edited_time": 1648713600000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "da9749ce-1430-4f22-8596-8952ebbdcf13": {
+        "role": "reader",
+        "value": {
+          "id": "da9749ce-1430-4f22-8596-8952ebbdcf13",
+          "version": 7,
+          "type": "image",
+          "properties": {
+            "source": [
+              [
+                "https://github.com/ethereumbook/ethereumbook/raw/develop/images/simple_elliptic_curve.png"
+              ]
+            ]
+          },
+          "format": {
+            "display_source": "https://github.com/ethereumbook/ethereumbook/raw/develop/images/simple_elliptic_curve.png"
+          },
+          "created_time": 1648713600000,
+          "last_edited_time": 1648713600000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5cabf8d3-5c8b-49a9-a5c0-f85cf0c60f5d": {
+        "role": "reader",
+        "value": {
+          "id": "5cabf8d3-5c8b-49a9-a5c0-f85cf0c60f5d",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648713600000,
+          "last_edited_time": 1648713600000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ee5b2e70-6c52-4dc6-b2e6-e16ceaa7398c": {
+        "role": "reader",
+        "value": {
+          "id": "ee5b2e70-6c52-4dc6-b2e6-e16ceaa7398c",
+          "version": 224,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Public key requires more understanding, it basically is a point from the curve above, which is the product of elliptic curve \"multiplication” between your private key and a constant point"
+              ]
+            ]
+          },
+          "created_time": 1648640160000,
+          "last_edited_time": 1648640400000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "709baea4-94b2-46f3-8c35-e492ee8e02ad": {
+        "role": "reader",
+        "value": {
+          "id": "709baea4-94b2-46f3-8c35-e492ee8e02ad",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648640400000,
+          "last_edited_time": 1648640400000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cccb731e-ac95-48ea-83f4-62922e0da905": {
+        "role": "reader",
+        "value": {
+          "id": "cccb731e-ac95-48ea-83f4-62922e0da905",
+          "version": 217,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "It doesn’t matter if you don’t know what is an elliptic curve \"multiplication”, because me neither"
+              ]
+            ]
+          },
+          "created_time": 1648640400000,
+          "last_edited_time": 1648642260000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2cb532fe-f5ec-46b9-b3de-8f592385fa48": {
+        "role": "reader",
+        "value": {
+          "id": "2cb532fe-f5ec-46b9-b3de-8f592385fa48",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648640640000,
+          "last_edited_time": 1648640640000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4ee78570-a30d-4d6f-89f0-538772c4900e": {
+        "role": "reader",
+        "value": {
+          "id": "4ee78570-a30d-4d6f-89f0-538772c4900e",
+          "version": 8,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "You just need to know this is not any other normal multiplication which is reversible, meaning elliptic curve \"multiplication” is a one-way function"
+              ]
+            ]
+          },
+          "created_time": 1648640640000,
+          "last_edited_time": 1648642260000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2093621b-fe3a-48d0-9ae4-a30eb9c41e65": {
+        "role": "reader",
+        "value": {
+          "id": "2093621b-fe3a-48d0-9ae4-a30eb9c41e65",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648640460000,
+          "last_edited_time": 1648640460000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d3fbe21c-5295-4a26-910e-5f904b5a8605": {
+        "role": "reader",
+        "value": {
+          "id": "d3fbe21c-5295-4a26-910e-5f904b5a8605",
+          "version": 175,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "So you private key is the input to a black box and public key is the output, remember the property of one-way function, input to output is easy to get, but not vice versa"
+              ]
+            ]
+          },
+          "created_time": 1648640460000,
+          "last_edited_time": 1648640520000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "de36b614-2d68-4c7f-9287-86ee32485f1a": {
+        "role": "reader",
+        "value": {
+          "id": "de36b614-2d68-4c7f-9287-86ee32485f1a",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648637520000,
+          "last_edited_time": 1648637520000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "082b1c90-0b84-4796-9163-30061ff773ff": {
+        "role": "reader",
+        "value": {
+          "id": "082b1c90-0b84-4796-9163-30061ff773ff",
+          "version": 202,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Note that "],
+              ["2^256", [["c"]]],
+              [
+                " is a very big number, it is practically impossible for anyone to brute forcefully solve the private key when only a public key is given!"
+              ]
+            ]
+          },
+          "created_time": 1648637460000,
+          "last_edited_time": 1648640880000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "727dd8ee-bc27-4152-a975-5282c5cc4469": {
+        "role": "reader",
+        "value": {
+          "id": "727dd8ee-bc27-4152-a975-5282c5cc4469",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648641300000,
+          "last_edited_time": 1648641300000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "53ae35fc-9138-4c3e-89ac-a403ecb4998c": {
+        "role": "reader",
+        "value": {
+          "id": "53ae35fc-9138-4c3e-89ac-a403ecb4998c",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648641300000,
+          "last_edited_time": 1648641300000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7a21b2e4-0f7a-4c3c-b309-8471c43c9462": {
+        "role": "reader",
+        "value": {
+          "id": "7a21b2e4-0f7a-4c3c-b309-8471c43c9462",
+          "version": 41,
+          "type": "sub_header",
+          "properties": { "title": [["Accounts & Ethereum Address"]] },
+          "created_time": 1648641339181,
+          "last_edited_time": 1648642020000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9178c3d4-7e99-4159-ab22-69592d30e8d1": {
+        "role": "reader",
+        "value": {
+          "id": "9178c3d4-7e99-4159-ab22-69592d30e8d1",
+          "version": 78,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["There are two account types in Ethereum, EOA ("],
+              ["externally owned accounts) ", [["i"]]],
+              ["and contract"]
+            ]
+          },
+          "created_time": 1648641300000,
+          "last_edited_time": 1648641360000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b7954e38-abe8-4995-b668-331b2ab0fe9d": {
+        "role": "reader",
+        "value": {
+          "id": "b7954e38-abe8-4995-b668-331b2ab0fe9d",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648641360000,
+          "last_edited_time": 1648641360000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6799074b-8112-41f1-a917-dc2bcc76b29c": {
+        "role": "reader",
+        "value": {
+          "id": "6799074b-8112-41f1-a917-dc2bcc76b29c",
+          "version": 94,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["We will only talk about EOA only, because this relates to this article the most"]
+            ]
+          },
+          "created_time": 1648641360000,
+          "last_edited_time": 1648641660000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6784d44f-94f2-4852-a164-3d87a83e9b44": {
+        "role": "reader",
+        "value": {
+          "id": "6784d44f-94f2-4852-a164-3d87a83e9b44",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648641420000,
+          "last_edited_time": 1648641420000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ea70ef6e-a11b-46ab-a577-e0b001855cec": {
+        "role": "reader",
+        "value": {
+          "id": "ea70ef6e-a11b-46ab-a577-e0b001855cec",
+          "version": 102,
+          "type": "text",
+          "properties": {
+            "title": [["EOA is controlled by a private key and "], ["digital signatures", [["i"]]]]
+          },
+          "created_time": 1648641420000,
+          "last_edited_time": 1648641780000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8fa7ca22-cc89-42c9-935c-df8e0d30585f": {
+        "role": "reader",
+        "value": {
+          "id": "8fa7ca22-cc89-42c9-935c-df8e0d30585f",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648641780000,
+          "last_edited_time": 1648641780000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "06c38dde-16cd-4f99-9df6-6217480db7b2": {
+        "role": "reader",
+        "value": {
+          "id": "06c38dde-16cd-4f99-9df6-6217480db7b2",
+          "version": 182,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Your address is computed by another one-way function called "],
+              ["Keccak256", [["c"]]],
+              [" from public key, and we will take the last 20 bytes only"]
+            ]
+          },
+          "created_time": 1648641180000,
+          "last_edited_time": 1648642260000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ab65a397-3d5d-446c-b4b1-aac21b2bc829": {
+        "role": "reader",
+        "value": {
+          "id": "ab65a397-3d5d-446c-b4b1-aac21b2bc829",
+          "version": 7,
+          "type": "text",
+          "created_time": 1648642020000,
+          "last_edited_time": 1648642020000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c1cd3232-b9cb-4d4a-b2b5-be1fd44378fe": {
+        "role": "reader",
+        "value": {
+          "id": "c1cd3232-b9cb-4d4a-b2b5-be1fd44378fe",
+          "version": 10,
+          "type": "divider",
+          "created_time": 1648642020000,
+          "last_edited_time": 1648642020000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "370a0be9-a354-4533-9008-68097808dd78": {
+        "role": "reader",
+        "value": {
+          "id": "370a0be9-a354-4533-9008-68097808dd78",
+          "version": 10,
+          "type": "sub_header",
+          "properties": { "title": [["Digital Signatures"]] },
+          "created_time": 1648642071824,
+          "last_edited_time": 1648642020000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "78d9181e-0307-4327-ae02-ef0b884be852": {
+        "role": "reader",
+        "value": {
+          "id": "78d9181e-0307-4327-ae02-ef0b884be852",
+          "version": 78,
+          "type": "text",
+          "properties": { "title": [["This is how usually it works:"]] },
+          "created_time": 1648642020000,
+          "last_edited_time": 1648642800000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7c1db8e1-6f3e-4e6d-994d-6798b62d2cb7": {
+        "role": "reader",
+        "value": {
+          "id": "7c1db8e1-6f3e-4e6d-994d-6798b62d2cb7",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648642680000,
+          "last_edited_time": 1648642680000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c698bb5a-03ad-4f05-8b87-e37b464a5afc": {
+        "role": "reader",
+        "value": {
+          "id": "c698bb5a-03ad-4f05-8b87-e37b464a5afc",
+          "version": 334,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["sign", [["c"]]],
+              [" is a one-way function that is derived by a "],
+              ["message", [["c"]]],
+              [" (which is known) and "],
+              ["private key", [["c"]]],
+              [" (not known)"]
+            ]
+          },
+          "created_time": 1648642680000,
+          "last_edited_time": 1648644060000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2f74bab7-56e3-4b9a-a109-5c9e0f02ae2f": {
+        "role": "reader",
+        "value": {
+          "id": "2f74bab7-56e3-4b9a-a109-5c9e0f02ae2f",
+          "version": 53,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Anyone can "],
+              ["verify", [["c"]]],
+              [" the "],
+              ["message", [["c"]]],
+              [" by the "],
+              ["public key", [["c"]]],
+              [" with "],
+              ["signature", [["c"]]]
+            ]
+          },
+          "created_time": 1648642860000,
+          "last_edited_time": 1648643040000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7de64733-9415-4f0a-8553-5b9642090340": {
+        "role": "reader",
+        "value": {
+          "id": "7de64733-9415-4f0a-8553-5b9642090340",
+          "version": 32,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["You can not reverse the "],
+              ["private key", [["c"]]],
+              [" with "],
+              ["signature", [["c"]]],
+              [" and "],
+              ["message", [["c"]]],
+              [" provided"]
+            ]
+          },
+          "created_time": 1648642800000,
+          "last_edited_time": 1648642920000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "063d6de3-9dc8-4d2a-bd6d-23efc5b603c2": {
+        "role": "reader",
+        "value": {
+          "id": "063d6de3-9dc8-4d2a-bd6d-23efc5b603c2",
+          "version": 36,
+          "type": "text",
+          "created_time": 1648642920000,
+          "last_edited_time": 1648642920000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ec7b4b76-fa39-4e85-8451-e081d14d4657": {
+        "role": "reader",
+        "value": {
+          "id": "ec7b4b76-fa39-4e85-8451-e081d14d4657",
+          "version": 335,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is what is interesting about asymmetric encryption and signature, if Alice uses "
+              ],
+              ["public key", [["i"]]],
+              [" to do something, Bob has to use "],
+              ["private key", [["i"]]],
+              ["; if Alice uses "],
+              ["private key", [["i"]]],
+              [", then Bob has to use "],
+              ["public key", [["i"]]]
+            ]
+          },
+          "created_time": 1648642920000,
+          "last_edited_time": 1648643100000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ac4d06d3-6854-438f-9c85-1fea535bbcd7": {
+        "role": "reader",
+        "value": {
+          "id": "ac4d06d3-6854-438f-9c85-1fea535bbcd7",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648643100000,
+          "last_edited_time": 1648643100000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0bf0f88e-14d4-429e-bcc9-8cdcd97de46c": {
+        "role": "reader",
+        "value": {
+          "id": "0bf0f88e-14d4-429e-bcc9-8cdcd97de46c",
+          "version": 285,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This is why private key gives control to the EOA, a "],
+              ["transaction", [["c"]]],
+              [" could be signed with the "],
+              ["private key", [["c"]]],
+              [", anyone who knows the public address can prove mathematically prove that this "],
+              ["transaction", [["c"]]],
+              [" is really issued by that EOA"]
+            ]
+          },
+          "created_time": 1648643100000,
+          "last_edited_time": 1648644060000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e2b946ac-9404-4f24-81b3-11faf2479ab2": {
+        "role": "reader",
+        "value": {
+          "id": "e2b946ac-9404-4f24-81b3-11faf2479ab2",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648643220000,
+          "last_edited_time": 1648643220000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "662cd70d-5890-4b0d-9fbe-48eb773f7976": {
+        "role": "reader",
+        "value": {
+          "id": "662cd70d-5890-4b0d-9fbe-48eb773f7976",
+          "version": 287,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This also ensures the private key never needs to leave the storage, you only broadcast the signature to the network, not your private keys, so "
+              ],
+              [
+                "you will never need to send your private key / recovery phrases to others to sign a transaction!!!",
+                [["b"]]
+              ]
+            ]
+          },
+          "created_time": 1648643220000,
+          "last_edited_time": 1648644360000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3f3b23e4-35f8-4eae-971d-980d8db15614": {
+        "role": "reader",
+        "value": {
+          "id": "3f3b23e4-35f8-4eae-971d-980d8db15614",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648643280000,
+          "last_edited_time": 1648643280000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "638cede0-31a4-4103-96c8-592e5ffaed4c": {
+        "role": "reader",
+        "value": {
+          "id": "638cede0-31a4-4103-96c8-592e5ffaed4c",
+          "version": 422,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This gives a very different experience from traditional banking services, when you are doing customer services, you’ll always need to enter the password to the system / admin to confirm your identity, this will never happen in the decentralized world!"
+              ]
+            ]
+          },
+          "created_time": 1648643280000,
+          "last_edited_time": 1648644420000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c850b53a-0529-40b8-90be-7114af05d66e": {
+        "role": "reader",
+        "value": {
+          "id": "c850b53a-0529-40b8-90be-7114af05d66e",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648643520000,
+          "last_edited_time": 1648643520000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4d604915-3749-48d2-a06a-1bf540d123ee": {
+        "role": "reader",
+        "value": {
+          "id": "4d604915-3749-48d2-a06a-1bf540d123ee",
+          "version": 250,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is why the “MetaMask customer services” can’t fool me, I know I never need to give out my passphrase to anyone to grant access! So some common sense could really save you from the loss of fund"
+              ]
+            ]
+          },
+          "created_time": 1648643520000,
+          "last_edited_time": 1648644420000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ca65b4a8-807f-42b5-aacf-486cd56f8883": {
+        "role": "reader",
+        "value": {
+          "id": "ca65b4a8-807f-42b5-aacf-486cd56f8883",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648643100000,
+          "last_edited_time": 1648643100000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ae7de3e3-0f73-4dfd-af85-0bca0f6fcf0c": {
+        "role": "reader",
+        "value": {
+          "id": "ae7de3e3-0f73-4dfd-af85-0bca0f6fcf0c",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648642800000,
+          "last_edited_time": 1648644240000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a3f45f71-545b-46b2-80ea-facb0972b1d0": {
+        "role": "reader",
+        "value": {
+          "id": "a3f45f71-545b-46b2-80ea-facb0972b1d0",
+          "version": 18,
+          "type": "sub_header",
+          "properties": { "title": [["Read more"]] },
+          "created_time": 1648644254889,
+          "last_edited_time": 1648644240000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "10a7c33e-522e-4024-989e-64bdb687d49d": {
+        "role": "reader",
+        "value": {
+          "id": "10a7c33e-522e-4024-989e-64bdb687d49d",
+          "version": 106,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["You can know about how this works in “Mastering Ethereum” written by Gavin Wood"]
+            ]
+          },
+          "created_time": 1648644240000,
+          "last_edited_time": 1648644300000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "513b6ff3-5e21-4b3d-8200-e73c325d9fbb": {
+        "role": "reader",
+        "value": {
+          "id": "513b6ff3-5e21-4b3d-8200-e73c325d9fbb",
+          "version": 5,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc",
+                [
+                  [
+                    "a",
+                    "https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1648644240000,
+          "last_edited_time": 1648644240000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b392368c-269d-4472-aadd-ab18dd35e7b8": {
+        "role": "reader",
+        "value": {
+          "id": "b392368c-269d-4472-aadd-ab18dd35e7b8",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648644300000,
+          "last_edited_time": 1648644300000,
+          "parent_id": "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {
+      "ac0f61b3-21a2-4f6d-b5aa-58f8b22d24f2": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e48e7fa9-4fad-42dd-b1cf-227181befdfd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T005833Z&X-Amz-Expires=86400&X-Amz-Signature=bd47503c476af513b6c2cadb82936f36aff66fcad1487aa9c7db1e569d116fbf&X-Amz-SignedHeaders=host&x-id=GetObject"
+    }
+  }
+}

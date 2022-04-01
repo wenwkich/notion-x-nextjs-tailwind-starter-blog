@@ -1,0 +1,1116 @@
+{
+  "object": "page",
+  "id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+  "created_time": "2022-03-30T15:19:00.000Z",
+  "last_edited_time": "2022-03-30T15:56:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173", "name": "hyperpop", "color": "green" },
+        { "id": "d0b570be-d665-4949-8649-f324e223fd63", "name": "music", "color": "red" },
+        { "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35", "name": "thoughts", "color": "orange" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-30T15:56:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-30T15:19:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "eb10527b87b74bb4b88173a739b356b1-Mother-of-Hyperpop"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": { "content": "Mother of Hyperpop", "link": null },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mother of Hyperpop",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Mother-of-Hyperpop-eb10527b87b74bb4b88173a739b356b1",
+  "recordMap": {
+    "block": {
+      "eb10527b-87b7-4bb4-b881-73a739b356b1": {
+        "role": "reader",
+        "value": {
+          "id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "version": 104,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["hyperpop,music,thoughts"]],
+            "title": [["Mother of Hyperpop"]]
+          },
+          "content": [
+            "a24244de-98b3-4330-978f-e0117c14c490",
+            "ae8f9611-4cf6-417c-a79d-45d2c6424a4f",
+            "8d3c05a3-c636-46b0-a90f-8af82023e2cf",
+            "6441fa69-c8da-4713-b82d-8a73e69482ba",
+            "c60ce9d7-3a78-4afa-a858-17ca52c3e12a",
+            "0fa9e1a2-323f-4456-8573-6df0cbeeb6af",
+            "0701cb2b-13a3-43ad-a7cc-c44ecf5c1337",
+            "79862801-8212-4b55-8989-d962a15222e7",
+            "955a05d6-c1c3-45f5-bfbc-e94f960d5930",
+            "e428074b-9ccc-4702-80f4-221d4860c843",
+            "7bb69e0a-2dac-4f55-8dcc-62afeea3f744",
+            "9e43b88b-4f80-4b3e-b758-7f80ad05d0db",
+            "5f05ea37-b115-4dac-b1c3-d2f4fd1b1efe",
+            "f08ee0d2-71c4-41dc-8a3b-ad75c398eb01",
+            "5eaedb56-f901-43f1-ac88-9887779373e9",
+            "30579d7e-7c85-4464-ad82-5139645dd030",
+            "c8126c58-14c2-41fc-a339-e274752ace06",
+            "655508d5-0c02-4106-8a82-655e1a1c8204",
+            "78ccfa54-67d6-434f-ba53-937b43ddb190",
+            "bf84600d-1c9f-443e-b9fa-3465736bcf7f",
+            "37cf0bd7-e326-448a-a241-2a51d9aa0032",
+            "24fd8bd3-9640-4277-87be-6f7b39a09c73",
+            "362fc219-fe8c-4e63-8038-5f40d2fdbfc2",
+            "3a20f71a-c036-4fed-a1b4-d2e75d19821a",
+            "321dd110-9608-4903-a601-3bae4cb9ba29",
+            "4d35db99-fb04-4ef9-b80c-8188769ab644",
+            "9a3b8b74-ea23-459b-88a8-9d465032806b",
+            "b008eeb6-8e4f-452e-a56e-201e69c60938",
+            "d6906b43-bbc7-4224-836d-04b1740fc5d4",
+            "3b3d5b01-331e-43d3-bdf6-268b4b6958e3",
+            "0fd94545-b129-4501-9982-729914962575",
+            "dcd3be94-625e-4c14-b12f-8ac4e9918114",
+            "7ede1fb5-abbb-42c2-a9f8-d4cd01c328ce"
+          ],
+          "created_time": 1648653540000,
+          "last_edited_time": 1648655760000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a24244de-98b3-4330-978f-e0117c14c490": {
+        "role": "reader",
+        "value": {
+          "id": "a24244de-98b3-4330-978f-e0117c14c490",
+          "version": 34,
+          "type": "text",
+          "properties": { "title": [["Mama mia, it’s M.I.A. XXXO"]] },
+          "created_time": 1648653540000,
+          "last_edited_time": 1648655220000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ae8f9611-4cf6-417c-a79d-45d2c6424a4f": {
+        "role": "reader",
+        "value": {
+          "id": "ae8f9611-4cf6-417c-a79d-45d2c6424a4f",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653900000,
+          "last_edited_time": 1648653900000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8d3c05a3-c636-46b0-a90f-8af82023e2cf": {
+        "role": "reader",
+        "value": {
+          "id": "8d3c05a3-c636-46b0-a90f-8af82023e2cf",
+          "version": 3,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://www.youtube.com/watch?v=sfbQ5mHWkOs",
+                [["a", "https://www.youtube.com/watch?v=sfbQ5mHWkOs"]]
+              ]
+            ]
+          },
+          "created_time": 1648653900000,
+          "last_edited_time": 1648653900000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6441fa69-c8da-4713-b82d-8a73e69482ba": {
+        "role": "reader",
+        "value": {
+          "id": "6441fa69-c8da-4713-b82d-8a73e69482ba",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653540000,
+          "last_edited_time": 1648653540000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c60ce9d7-3a78-4afa-a858-17ca52c3e12a": {
+        "role": "reader",
+        "value": {
+          "id": "c60ce9d7-3a78-4afa-a858-17ca52c3e12a",
+          "version": 112,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "This is not a nu song anymore, but gives me nostalgia all the way back to my high school days"
+              ]
+            ]
+          },
+          "created_time": 1648653540000,
+          "last_edited_time": 1648653600000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0fa9e1a2-323f-4456-8573-6df0cbeeb6af": {
+        "role": "reader",
+        "value": {
+          "id": "0fa9e1a2-323f-4456-8573-6df0cbeeb6af",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653600000,
+          "last_edited_time": 1648653600000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0701cb2b-13a3-43ad-a7cc-c44ecf5c1337": {
+        "role": "reader",
+        "value": {
+          "id": "0701cb2b-13a3-43ad-a7cc-c44ecf5c1337",
+          "version": 440,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This song still sounds pretty dope today also the music video is just iconic "]
+            ]
+          },
+          "created_time": 1648653600000,
+          "last_edited_time": 1648655040000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "79862801-8212-4b55-8989-d962a15222e7": {
+        "role": "reader",
+        "value": {
+          "id": "79862801-8212-4b55-8989-d962a15222e7",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648655040000,
+          "last_edited_time": 1648655040000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "955a05d6-c1c3-45f5-bfbc-e94f960d5930": {
+        "role": "reader",
+        "value": {
+          "id": "955a05d6-c1c3-45f5-bfbc-e94f960d5930",
+          "version": 72,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "It just looks very MySpace, it looks pretty old and cheesy on purpose (in 2012, MySpace is an early 2000 thing) to create that irony, but the songs sounds very ahead of its time which I think it’s just some kinda bad humor"
+              ]
+            ]
+          },
+          "created_time": 1648655040000,
+          "last_edited_time": 1648655520000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e428074b-9ccc-4702-80f4-221d4860c843": {
+        "role": "reader",
+        "value": {
+          "id": "e428074b-9ccc-4702-80f4-221d4860c843",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653720000,
+          "last_edited_time": 1648653720000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7bb69e0a-2dac-4f55-8dcc-62afeea3f744": {
+        "role": "reader",
+        "value": {
+          "id": "7bb69e0a-2dac-4f55-8dcc-62afeea3f744",
+          "version": 363,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The song talks about identities of social media, where women only reflect the gaze from other man (and I think vice versa nowadays)"
+              ]
+            ]
+          },
+          "created_time": 1648653720000,
+          "last_edited_time": 1648655580000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9e43b88b-4f80-4b3e-b758-7f80ad05d0db": {
+        "role": "reader",
+        "value": {
+          "id": "9e43b88b-4f80-4b3e-b758-7f80ad05d0db",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648654860000,
+          "last_edited_time": 1648654860000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5f05ea37-b115-4dac-b1c3-d2f4fd1b1efe": {
+        "role": "reader",
+        "value": {
+          "id": "5f05ea37-b115-4dac-b1c3-d2f4fd1b1efe",
+          "version": 14,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "(I want to write another blog about metaverse and identities and why do I think we are actually living in a metaverse already)"
+              ]
+            ]
+          },
+          "created_time": 1648654860000,
+          "last_edited_time": 1648655580000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f08ee0d2-71c4-41dc-8a3b-ad75c398eb01": {
+        "role": "reader",
+        "value": {
+          "id": "f08ee0d2-71c4-41dc-8a3b-ad75c398eb01",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648654380000,
+          "last_edited_time": 1648654380000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5eaedb56-f901-43f1-ac88-9887779373e9": {
+        "role": "reader",
+        "value": {
+          "id": "5eaedb56-f901-43f1-ac88-9887779373e9",
+          "version": 299,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The verse is basically a woman flirting with a man on socials (the title XXXO just stands for “excess sex oh”) and the hook just repeating “you want me be, somebody who I’m really naut” which just reveal the truth and creates a stark contrast"
+              ]
+            ]
+          },
+          "created_time": 1648654380000,
+          "last_edited_time": 1648654800000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "30579d7e-7c85-4464-ad82-5139645dd030": {
+        "role": "reader",
+        "value": {
+          "id": "30579d7e-7c85-4464-ad82-5139645dd030",
+          "version": 8,
+          "type": "text",
+          "created_time": 1648654200000,
+          "last_edited_time": 1648654200000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c8126c58-14c2-41fc-a339-e274752ace06": {
+        "role": "reader",
+        "value": {
+          "id": "c8126c58-14c2-41fc-a339-e274752ace06",
+          "version": 41,
+          "type": "text",
+          "properties": { "title": [["Mai pick for the lines:"]] },
+          "created_time": 1648654080000,
+          "last_edited_time": 1648654440000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "655508d5-0c02-4106-8a82-655e1a1c8204": {
+        "role": "reader",
+        "value": {
+          "id": "655508d5-0c02-4106-8a82-655e1a1c8204",
+          "version": 188,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "“I can be that actress and you’ll be Tarantino” - this is a clever line talking about Quentin Tarantino and Uma Thurman, celebrity gossips never get boring"
+              ]
+            ]
+          },
+          "created_time": 1648654080000,
+          "last_edited_time": 1648655280000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "78ccfa54-67d6-434f-ba53-937b43ddb190": {
+        "role": "reader",
+        "value": {
+          "id": "78ccfa54-67d6-434f-ba53-937b43ddb190",
+          "version": 150,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "“You want me be, somebody who I’m really not” - simple line, but very effectively delivers the whole concept"
+              ]
+            ]
+          },
+          "created_time": 1648654260000,
+          "last_edited_time": 1648654920000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "bf84600d-1c9f-443e-b9fa-3465736bcf7f": {
+        "role": "reader",
+        "value": {
+          "id": "bf84600d-1c9f-443e-b9fa-3465736bcf7f",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653780000,
+          "last_edited_time": 1648653780000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "37cf0bd7-e326-448a-a241-2a51d9aa0032": {
+        "role": "reader",
+        "value": {
+          "id": "37cf0bd7-e326-448a-a241-2a51d9aa0032",
+          "version": 225,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "In my high school days, I already dislike social media a lot, because I was (and still am) very self-conscious and I don’t want people to judge me"
+              ]
+            ]
+          },
+          "created_time": 1648653780000,
+          "last_edited_time": 1648654500000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "24fd8bd3-9640-4277-87be-6f7b39a09c73": {
+        "role": "reader",
+        "value": {
+          "id": "24fd8bd3-9640-4277-87be-6f7b39a09c73",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648653900000,
+          "last_edited_time": 1648653900000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "362fc219-fe8c-4e63-8038-5f40d2fdbfc2": {
+        "role": "reader",
+        "value": {
+          "id": "362fc219-fe8c-4e63-8038-5f40d2fdbfc2",
+          "version": 163,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Sometimes I don’t really want my stuff to grab attention but I think I’m getting more comfy with that by having dis blog"
+              ]
+            ]
+          },
+          "created_time": 1648653900000,
+          "last_edited_time": 1648654320000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3a20f71a-c036-4fed-a1b4-d2e75d19821a": {
+        "role": "reader",
+        "value": {
+          "id": "3a20f71a-c036-4fed-a1b4-d2e75d19821a",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648654020000,
+          "last_edited_time": 1648654020000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "321dd110-9608-4903-a601-3bae4cb9ba29": {
+        "role": "reader",
+        "value": {
+          "id": "321dd110-9608-4903-a601-3bae4cb9ba29",
+          "version": 439,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "To be honest, I kinda want the layout of this site to be more like this music video (or like the tumblr days, but actually tumblr is pretty MK using Hong Kong slang), but I’m too lazy and I don’t think I have good aesthetic sense"
+              ]
+            ]
+          },
+          "created_time": 1648654020000,
+          "last_edited_time": 1648655640000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4d35db99-fb04-4ef9-b80c-8188769ab644": {
+        "role": "reader",
+        "value": {
+          "id": "4d35db99-fb04-4ef9-b80c-8188769ab644",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648655640000,
+          "last_edited_time": 1648655640000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9a3b8b74-ea23-459b-88a8-9d465032806b": {
+        "role": "reader",
+        "value": {
+          "id": "9a3b8b74-ea23-459b-88a8-9d465032806b",
+          "version": 5,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "To be honest, dis site kinda sucks as it looks too “standard” and just fits the current aesthetics"
+              ]
+            ]
+          },
+          "created_time": 1648655640000,
+          "last_edited_time": 1648655640000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b008eeb6-8e4f-452e-a56e-201e69c60938": {
+        "role": "reader",
+        "value": {
+          "id": "b008eeb6-8e4f-452e-a56e-201e69c60938",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648654320000,
+          "last_edited_time": 1648654320000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d6906b43-bbc7-4224-836d-04b1740fc5d4": {
+        "role": "reader",
+        "value": {
+          "id": "d6906b43-bbc7-4224-836d-04b1740fc5d4",
+          "version": 161,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "And the reason why I didn’t set up a comment system is that I am still self conscious and just lazy to reply and I hope no one will read them lol"
+              ]
+            ]
+          },
+          "created_time": 1648654320000,
+          "last_edited_time": 1648654560000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3b3d5b01-331e-43d3-bdf6-268b4b6958e3": {
+        "role": "reader",
+        "value": {
+          "id": "3b3d5b01-331e-43d3-bdf6-268b4b6958e3",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648655340000,
+          "last_edited_time": 1648655340000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0fd94545-b129-4501-9982-729914962575": {
+        "role": "reader",
+        "value": {
+          "id": "0fd94545-b129-4501-9982-729914962575",
+          "version": 116,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Sorry if I don’t use enough adjectives because I’m not an adjective person (and my english bad bad)"
+              ]
+            ]
+          },
+          "created_time": 1648655340000,
+          "last_edited_time": 1648655400000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dcd3be94-625e-4c14-b12f-8ac4e9918114": {
+        "role": "reader",
+        "value": {
+          "id": "dcd3be94-625e-4c14-b12f-8ac4e9918114",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648653540000,
+          "last_edited_time": 1648653540000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7ede1fb5-abbb-42c2-a9f8-d4cd01c328ce": {
+        "role": "reader",
+        "value": {
+          "id": "7ede1fb5-abbb-42c2-a9f8-d4cd01c328ce",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648653540000,
+          "last_edited_time": 1648653900000,
+          "parent_id": "eb10527b-87b7-4bb4-b881-73a739b356b1",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}

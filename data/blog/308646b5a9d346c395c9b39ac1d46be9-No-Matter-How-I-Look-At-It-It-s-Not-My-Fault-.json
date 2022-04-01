@@ -1,0 +1,1182 @@
+{
+  "object": "page",
+  "id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+  "created_time": "2022-03-31T00:55:00.000Z",
+  "last_edited_time": "2022-03-31T01:35:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": {
+      "id": "XWe%7D",
+      "type": "multi_select",
+      "multi_select": [
+        { "id": "d0b570be-d665-4949-8649-f324e223fd63", "name": "music", "color": "red" },
+        { "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35", "name": "thoughts", "color": "orange" }
+      ]
+    },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-03-31T01:35:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-31T00:55:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "308646b5a9d346c395c9b39ac1d46be9-No-Matter-How-I-Look-At-It-It-s-Not-My-Fault-"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": { "content": "No Matter How I Look At It, It's Not My Fault!", "link": null },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "No Matter How I Look At It, It's Not My Fault!",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/No-Matter-How-I-Look-At-It-It-s-Not-My-Fault-308646b5a9d346c395c9b39ac1d46be9",
+  "recordMap": {
+    "block": {
+      "308646b5-a9d3-46c3-95c9-b39ac1d46be9": {
+        "role": "reader",
+        "value": {
+          "id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "version": 93,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "XWe}": [["music,thoughts"]],
+            "title": [["No Matter How I Look At It, It's Not My Fault!", [["b"]]]]
+          },
+          "content": [
+            "45268784-2f89-465d-b42f-c8a4cf9cf26d",
+            "dfc338bf-37ea-4971-80a3-506330d86588",
+            "2e6a3657-5e76-4486-ba86-6a0adf264b6f",
+            "725b354f-7100-4d87-bc4d-1ce772abb2b8",
+            "1887345a-2c67-4749-90bd-094c548385c9",
+            "192c0b89-e5a8-4517-8d2a-8005cb3df6a9",
+            "e28bda98-392a-4cee-ba15-50ab80b964c6",
+            "ef3dfb4c-c6b5-4b72-b062-4e625f7678d8",
+            "16d31366-beb1-41ca-8984-50ded4b46539",
+            "a0b1b19b-c6cb-44f1-86d9-734cc0c24107",
+            "19be4203-5338-4986-9b8b-3223458339c1",
+            "c4684070-4def-45e6-aff8-17f5b4db6a63",
+            "e4bf0ff4-3239-4e0f-b37c-b0505137a56f",
+            "dbc95e60-e598-4e2a-ba95-b9e51c69d55c",
+            "dc034591-f2ba-43ec-8615-8aa0b4111078",
+            "31c76389-0d1d-4d88-8d9d-c341c9c0a271",
+            "5ade033c-a738-45b2-9d84-ca387fb6d5e5",
+            "9345febd-d243-4a1e-961a-0d4334ab5e54",
+            "e302121a-1d0b-4031-9d6b-a43d9a3f7e93",
+            "8f6f9454-fdb8-45dc-881d-23f23c62ef08",
+            "fbcbfd4a-cb9d-4fc8-9e70-7e6921688ab2",
+            "90e3afb2-0981-45ec-b06e-061ebc14c86f",
+            "57d98e6e-fd9f-440b-9e08-34719bcb7524",
+            "7bb3ac73-c5dd-4d7f-a13e-75ba91faedc0",
+            "66e4b557-c26a-40b2-8700-a81d8c3eaedd",
+            "677cf4d0-fd2a-49d4-813e-a88cc02d30ea",
+            "3c8cc517-77b2-4e16-92a3-ab1841c22259",
+            "2af7699b-5559-4650-9b10-35ca08773b9b",
+            "7c24d9b7-cd87-463d-9bec-b12df85c3284",
+            "fa18eb4c-ca57-4ed3-8870-ef6560812fe8",
+            "3f294b49-7614-4d94-acc5-330d766f328f",
+            "aff1f1b0-e9e9-441f-9743-7f7aa8e18cd6",
+            "7185435f-df9b-42fc-a4ec-558c9d7beadc",
+            "1f4edd94-f514-4839-be8b-d1b94ad8a52b",
+            "5fa87c5a-9b0b-4330-a509-b9d04b3c4e8a",
+            "56709ed9-b05f-43f2-be05-1cd2109b01ed"
+          ],
+          "created_time": 1648688100000,
+          "last_edited_time": 1648690500000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 555,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648709567871,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "45268784-2f89-465d-b42f-c8a4cf9cf26d": {
+        "role": "reader",
+        "value": {
+          "id": "45268784-2f89-465d-b42f-c8a4cf9cf26d",
+          "version": 143,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I have a few days to start my work, I have a few more full days to have fun with my blog (my blogs no longer looks empty now)"
+              ]
+            ]
+          },
+          "created_time": 1648688160000,
+          "last_edited_time": 1648688640000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dfc338bf-37ea-4971-80a3-506330d86588": {
+        "role": "reader",
+        "value": {
+          "id": "dfc338bf-37ea-4971-80a3-506330d86588",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648688340000,
+          "last_edited_time": 1648688340000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2e6a3657-5e76-4486-ba86-6a0adf264b6f": {
+        "role": "reader",
+        "value": {
+          "id": "2e6a3657-5e76-4486-ba86-6a0adf264b6f",
+          "version": 76,
+          "type": "text",
+          "properties": { "title": [["I suddenly notice one song — Petty Cvnt by Sewerslvt"]] },
+          "created_time": 1648688340000,
+          "last_edited_time": 1648688340000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "725b354f-7100-4d87-bc4d-1ce772abb2b8": {
+        "role": "reader",
+        "value": {
+          "id": "725b354f-7100-4d87-bc4d-1ce772abb2b8",
+          "version": 7,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://www.youtube.com/watch?v=mjtot639jxs",
+                [["a", "https://www.youtube.com/watch?v=mjtot639jxs"]]
+              ]
+            ]
+          },
+          "created_time": 1648688400000,
+          "last_edited_time": 1648688400000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1887345a-2c67-4749-90bd-094c548385c9": {
+        "role": "reader",
+        "value": {
+          "id": "1887345a-2c67-4749-90bd-094c548385c9",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648688400000,
+          "last_edited_time": 1648688400000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "192c0b89-e5a8-4517-8d2a-8005cb3df6a9": {
+        "role": "reader",
+        "value": {
+          "id": "192c0b89-e5a8-4517-8d2a-8005cb3df6a9",
+          "version": 495,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I know it’s sampling from some Japanese animation ED, but I’m not an anime person, so I didn’t give much fuck about it, I just know Pretty Cvnt sounds filled with energies of hysteria, agony and tension, also somehow chaotic and disturbing to the normies, anyway not easy to listen (to me, I think that’s just sounds dramatic and unique)"
+              ]
+            ]
+          },
+          "created_time": 1648688400000,
+          "last_edited_time": 1648689900000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e28bda98-392a-4cee-ba15-50ab80b964c6": {
+        "role": "reader",
+        "value": {
+          "id": "e28bda98-392a-4cee-ba15-50ab80b964c6",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648688460000,
+          "last_edited_time": 1648688460000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ef3dfb4c-c6b5-4b72-b062-4e625f7678d8": {
+        "role": "reader",
+        "value": {
+          "id": "ef3dfb4c-c6b5-4b72-b062-4e625f7678d8",
+          "version": 106,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I’m somehow curious today, and I just know today it’s from an anime called WataMote ("
+              ],
+              ["No Matter How I Look At It, It's Not My Fault!)", [["b"]]]
+            ]
+          },
+          "created_time": 1648688460000,
+          "last_edited_time": 1648688880000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "16d31366-beb1-41ca-8984-50ded4b46539": {
+        "role": "reader",
+        "value": {
+          "id": "16d31366-beb1-41ca-8984-50ded4b46539",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648688700000,
+          "last_edited_time": 1648688700000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a0b1b19b-c6cb-44f1-86d9-734cc0c24107": {
+        "role": "reader",
+        "value": {
+          "id": "a0b1b19b-c6cb-44f1-86d9-734cc0c24107",
+          "version": 71,
+          "type": "text",
+          "properties": { "title": [["I listen to the original songs with English Lyrics:"]] },
+          "created_time": 1648688700000,
+          "last_edited_time": 1648688700000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "19be4203-5338-4986-9b8b-3223458339c1": {
+        "role": "reader",
+        "value": {
+          "id": "19be4203-5338-4986-9b8b-3223458339c1",
+          "version": 5,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "https://www.youtube.com/watch?v=zDwhwP87-x0",
+                [["a", "https://www.youtube.com/watch?v=zDwhwP87-x0"]]
+              ]
+            ]
+          },
+          "created_time": 1648688700000,
+          "last_edited_time": 1648688700000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c4684070-4def-45e6-aff8-17f5b4db6a63": {
+        "role": "reader",
+        "value": {
+          "id": "c4684070-4def-45e6-aff8-17f5b4db6a63",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648688460000,
+          "last_edited_time": 1648688460000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e4bf0ff4-3239-4e0f-b37c-b0505137a56f": {
+        "role": "reader",
+        "value": {
+          "id": "e4bf0ff4-3239-4e0f-b37c-b0505137a56f",
+          "version": 216,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Just from the vibe of the original song, it sounds light and cute (although it’s about social anxiety about not being popular)"
+              ]
+            ]
+          },
+          "created_time": 1648688460000,
+          "last_edited_time": 1648688760000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dbc95e60-e598-4e2a-ba95-b9e51c69d55c": {
+        "role": "reader",
+        "value": {
+          "id": "dbc95e60-e598-4e2a-ba95-b9e51c69d55c",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648688760000,
+          "last_edited_time": 1648688760000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dc034591-f2ba-43ec-8615-8aa0b4111078": {
+        "role": "reader",
+        "value": {
+          "id": "dc034591-f2ba-43ec-8615-8aa0b4111078",
+          "version": 286,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "Wow, this song just sounds so like me a few years ago, if I found the anime earlier, I definitely will find more comfort in this series because it resonated with me but it’s somehow light and fun (bUt I dOn’T wAtCh ANIME)"
+              ]
+            ]
+          },
+          "created_time": 1648688760000,
+          "last_edited_time": 1648689600000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "31c76389-0d1d-4d88-8d9d-c341c9c0a271": {
+        "role": "reader",
+        "value": {
+          "id": "31c76389-0d1d-4d88-8d9d-c341c9c0a271",
+          "version": 11,
+          "type": "text",
+          "created_time": 1648689600000,
+          "last_edited_time": 1648689600000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5ade033c-a738-45b2-9d84-ca387fb6d5e5": {
+        "role": "reader",
+        "value": {
+          "id": "5ade033c-a738-45b2-9d84-ca387fb6d5e5",
+          "version": 28,
+          "type": "text",
+          "properties": { "title": [["YouTube random comment:"]] },
+          "created_time": 1648689000000,
+          "last_edited_time": 1648689600000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9345febd-d243-4a1e-961a-0d4334ab5e54": {
+        "role": "reader",
+        "value": {
+          "id": "9345febd-d243-4a1e-961a-0d4334ab5e54",
+          "version": 90,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["I didn’t watch the anime but from this song I just know what the show talks about"]
+            ]
+          },
+          "created_time": 1648689000000,
+          "last_edited_time": 1648689600000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e302121a-1d0b-4031-9d6b-a43d9a3f7e93": {
+        "role": "reader",
+        "value": {
+          "id": "e302121a-1d0b-4031-9d6b-a43d9a3f7e93",
+          "version": 14,
+          "type": "text",
+          "properties": { "title": [["I agree."]] },
+          "created_time": 1648689600000,
+          "last_edited_time": 1648689600000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8f6f9454-fdb8-45dc-881d-23f23c62ef08": {
+        "role": "reader",
+        "value": {
+          "id": "8f6f9454-fdb8-45dc-881d-23f23c62ef08",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648689060000,
+          "last_edited_time": 1648689060000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fbcbfd4a-cb9d-4fc8-9e70-7e6921688ab2": {
+        "role": "reader",
+        "value": {
+          "id": "fbcbfd4a-cb9d-4fc8-9e70-7e6921688ab2",
+          "version": 75,
+          "type": "text",
+          "properties": { "title": [["Lyrics that has been used in Pretty Cvnt:"]] },
+          "created_time": 1648688940000,
+          "last_edited_time": 1648689300000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "90e3afb2-0981-45ec-b06e-061ebc14c86f": {
+        "role": "reader",
+        "value": {
+          "id": "90e3afb2-0981-45ec-b06e-061ebc14c86f",
+          "version": 130,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["prelude: “I can’t even hold a conversation, I don’t know why... Am I an idiot?!”"]
+            ]
+          },
+          "created_time": 1648689060000,
+          "last_edited_time": 1648689180000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "57d98e6e-fd9f-440b-9e08-34719bcb7524": {
+        "role": "reader",
+        "value": {
+          "id": "57d98e6e-fd9f-440b-9e08-34719bcb7524",
+          "version": 117,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "hook: “Mirror mirror on the wall, do you want to shatter and fall?! You don’t have to say it all?!”"
+              ]
+            ]
+          },
+          "created_time": 1648689180000,
+          "last_edited_time": 1648689420000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7bb3ac73-c5dd-4d7f-a13e-75ba91faedc0": {
+        "role": "reader",
+        "value": {
+          "id": "7bb3ac73-c5dd-4d7f-a13e-75ba91faedc0",
+          "version": 138,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "also hook: “(Mirror) You never reflect my beautiful inner self (It’s all in your head, it’s all in your head”"
+              ]
+            ]
+          },
+          "created_time": 1648689420000,
+          "last_edited_time": 1648689480000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "66e4b557-c26a-40b2-8700-a81d8c3eaedd": {
+        "role": "reader",
+        "value": {
+          "id": "66e4b557-c26a-40b2-8700-a81d8c3eaedd",
+          "version": 58,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "bridge: “Tomorrow will be the same as yesterday, I don’t know why... Am I an idiot?!”"
+              ]
+            ]
+          },
+          "created_time": 1648689480000,
+          "last_edited_time": 1648689540000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "677cf4d0-fd2a-49d4-813e-a88cc02d30ea": {
+        "role": "reader",
+        "value": {
+          "id": "677cf4d0-fd2a-49d4-813e-a88cc02d30ea",
+          "version": 10,
+          "type": "text",
+          "created_time": 1648689660000,
+          "last_edited_time": 1648689660000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3c8cc517-77b2-4e16-92a3-ab1841c22259": {
+        "role": "reader",
+        "value": {
+          "id": "3c8cc517-77b2-4e16-92a3-ab1841c22259",
+          "version": 126,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "The cutest part with the original song is that it was off-key at the end, sounds like she’s crying in a comedic way"
+              ]
+            ]
+          },
+          "created_time": 1648689660000,
+          "last_edited_time": 1648689720000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2af7699b-5559-4650-9b10-35ca08773b9b": {
+        "role": "reader",
+        "value": {
+          "id": "2af7699b-5559-4650-9b10-35ca08773b9b",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648689900000,
+          "last_edited_time": 1648689900000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7c24d9b7-cd87-463d-9bec-b12df85c3284": {
+        "role": "reader",
+        "value": {
+          "id": "7c24d9b7-cd87-463d-9bec-b12df85c3284",
+          "version": 318,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "But Pretty Cvnt change the whole vibe of being light and fun, turns the song into some kinda melodrama (also with the sample from Death Grips, “eat it like a devil’s cunt”, it’s just like telling me to just eat this shit and suck it up)"
+              ]
+            ]
+          },
+          "created_time": 1648689900000,
+          "last_edited_time": 1648690020000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fa18eb4c-ca57-4ed3-8870-ef6560812fe8": {
+        "role": "reader",
+        "value": {
+          "id": "fa18eb4c-ca57-4ed3-8870-ef6560812fe8",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648689060000,
+          "last_edited_time": 1648689180000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3f294b49-7614-4d94-acc5-330d766f328f": {
+        "role": "reader",
+        "value": {
+          "id": "3f294b49-7614-4d94-acc5-330d766f328f",
+          "version": 335,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "But I’m kinda over the state of being anxious about not being popular, right now I’m more listen to HyperPop and songs with “attitudes” butt sometimes listening to song that is this hysteric is cool too (I’m talking about Pretty Cvnt, not the anime ED)"
+              ]
+            ]
+          },
+          "created_time": 1648688940000,
+          "last_edited_time": 1648689780000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "aff1f1b0-e9e9-441f-9743-7f7aa8e18cd6": {
+        "role": "reader",
+        "value": {
+          "id": "aff1f1b0-e9e9-441f-9743-7f7aa8e18cd6",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648690080000,
+          "last_edited_time": 1648690080000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7185435f-df9b-42fc-a4ec-558c9d7beadc": {
+        "role": "reader",
+        "value": {
+          "id": "7185435f-df9b-42fc-a4ec-558c9d7beadc",
+          "version": 240,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "To end this post, I just want to turn this blog with something filled with my personal inner experience and “mental model” (the [post](/blog/91b9d5aa442345dcad096b4e21764aa3-Simple-Not-Naive-Mental-Model-to-Private-Key-for-the-Non-Tech) of “Private key” should be my mental model only)"
+              ]
+            ]
+          },
+          "created_time": 1648689600000,
+          "last_edited_time": 1648690440000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1f4edd94-f514-4839-be8b-d1b94ad8a52b": {
+        "role": "reader",
+        "value": {
+          "id": "1f4edd94-f514-4839-be8b-d1b94ad8a52b",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648690260000,
+          "last_edited_time": 1648690260000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5fa87c5a-9b0b-4330-a509-b9d04b3c4e8a": {
+        "role": "reader",
+        "value": {
+          "id": "5fa87c5a-9b0b-4330-a509-b9d04b3c4e8a",
+          "version": 16,
+          "type": "text",
+          "created_time": 1648690260000,
+          "last_edited_time": 1648690440000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "56709ed9-b05f-43f2-be05-1cd2109b01ed": {
+        "role": "reader",
+        "value": {
+          "id": "56709ed9-b05f-43f2-be05-1cd2109b01ed",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648690440000,
+          "last_edited_time": 1648690440000,
+          "parent_id": "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 507,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 8,
+          "type": "list",
+          "name": "",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "query2": { "sort": [{ "property": "qqlW", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 30,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 7,
+          "type": "table",
+          "name": "Unpblished",
+          "format": {
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}
