@@ -4,7 +4,7 @@ import { NotionRenderer } from 'react-notion-x'
 
 export const NotionLayout = ({ layout, children, ...rest }) => {
   const Layout = require(`../layouts/${layout}`).default
-  return <Layout>{children}</Layout>
+  return <Layout {...rest}>{children}</Layout>
 }
 
 export const NotionLayoutRenderer = ({ layout, recordMap, darkMode, ...rest }) => {
