@@ -7,10 +7,10 @@ export const NotionLayout = ({ layout, ...rest }) => {
   return <Layout {...rest} />
 }
 
-export const NotionLayoutRenderer = ({ layout, recordMap, theme, ...rest }) => {
+export const NotionLayoutRenderer = ({ layout, recordMap, darkMode, ...rest }) => {
   const NotionComp = useMemo(
-    () => () => <NotionRenderer recordMap={recordMap} darkMode={theme === 'dark'} />,
-    [recordMap, theme]
+    () => () => <NotionRenderer recordMap={recordMap} darkMode={darkMode} />,
+    [recordMap, darkMode]
   )
 
   return (
